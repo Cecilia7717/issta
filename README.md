@@ -1,6 +1,6 @@
 # Use of Control Flow Graphs for Fault Localization
 
-# code
+# Tarantula+Edges code
 ## functional code: 
 Containing all codes that are used for evaluation of the performance.
 ### Ranking inside of each mutation
@@ -25,4 +25,17 @@ This part contains all methods that we add mutations and examine. You will have 
 ## source code test:
 This collects all the java file that compute the right result for each method, i.e. they don’t have any fault inside. You can have either _Pass_ or _Fail_ output.
 
-# data_output
+# Tarantula+Edges data_output
+This folder contains all the output data for testing the Tarantula+Edges appraoch in five methods from the Apache Commons Mathematics Library: hyperbolic sine (sinh) and cosine (cosh); power (pow); logarithm (log); prime; and an
+iterative implementation of Euclid’s greatest common divisor (gcd) algorithm, which were implemented in Java. 
+
+## line number needs to examine
+
+## ranking
+
+## sequential path result
+
+## suspicious line within each buggy version
+This foloder includes the result of using 
+## summary.xlsx
+# 
