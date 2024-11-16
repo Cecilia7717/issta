@@ -1,0 +1,1638 @@
+54_19.txt
+Bug contains on line 6
+Line 14.0 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 12.1 has 100.0% possibility of containing the bug
+Line 12.0 has 100.0% possibility of containing the bug
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.1 has 100.0% possibility of containing the bug
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 7.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 29.0 has 100.0% possibility of containing the bug
+Line 27.0 has 100.0% possibility of containing the bug
+Line 26.0 has 100.0% possibility of containing the bug
+Line 25.0 has 100.0% possibility of containing the bug
+Line 24.1 has 100.0% possibility of containing the bug
+Line 31.0 has 100.0% possibility of containing the bug
+Line 30.1 has 100.0% possibility of containing the bug
+Line 30.0 has 100.0% possibility of containing the bug
+Line 24.0 has 100.0% possibility of containing the bug
+Line 23.0 has 100.0% possibility of containing the bug
+Line 22.1 has 100.0% possibility of containing the bug
+Line 22.0 has 100.0% possibility of containing the bug
+Line 21.0 has 100.0% possibility of containing the bug
+Line 20.0 has 100.0% possibility of containing the bug
+Line 19.0 has 100.0% possibility of containing the bug
+Line 18.1 has 100.0% possibility of containing the bug
+Line 18.0 has 100.0% possibility of containing the bug
+Line 17.0 has 100.0% possibility of containing the bug
+Line 16.0 has 100.0% possibility of containing the bug
+Line 15.0 has 100.0% possibility of containing the bug
+Line 14.1 has 100.0% possibility of containing the bug
+Line 3.0 has 99.67602591792657% possibility of containing the bug
+Line 4.0 has 99.67602591792657% possibility of containing the bug
+Line 4.1 has 99.62216624685138% possibility of containing the bug
+Line 5.0 has 99.62216624685138% possibility of containing the bug
+ 
+ 
+80_48.txt
+Bug contains on line 22
+Line 22.1 has 100.0% possibility of containing the bug
+Line 30.0 has 100.0% possibility of containing the bug
+Line 24.0 has 100.0% possibility of containing the bug
+Line 23.0 has 100.0% possibility of containing the bug
+Line 4.1 has 99.7834325933947% possibility of containing the bug
+Line 5.0 has 99.7834325933947% possibility of containing the bug
+Line 3.0 has 99.76744186046511% possibility of containing the bug
+Line 4.0 has 99.76744186046511% possibility of containing the bug
+Line 14.0 has 99.66996699669967% possibility of containing the bug
+Line 13.0 has 99.66996699669967% possibility of containing the bug
+Line 12.1 has 99.66996699669967% possibility of containing the bug
+Line 12.0 has 99.66996699669967% possibility of containing the bug
+Line 11.0 has 99.66996699669967% possibility of containing the bug
+Line 10.1 has 99.66996699669967% possibility of containing the bug
+Line 10.0 has 99.66996699669967% possibility of containing the bug
+Line 9.0 has 99.66996699669967% possibility of containing the bug
+Line 8.0 has 99.66996699669967% possibility of containing the bug
+Line 32.0 has 99.66996699669967% possibility of containing the bug
+Line 22.0 has 99.66996699669967% possibility of containing the bug
+Line 21.0 has 99.66996699669967% possibility of containing the bug
+Line 20.0 has 99.66996699669967% possibility of containing the bug
+Line 19.0 has 99.66996699669967% possibility of containing the bug
+Line 18.1 has 99.66996699669967% possibility of containing the bug
+Line 18.0 has 99.66996699669967% possibility of containing the bug
+Line 17.0 has 99.66996699669967% possibility of containing the bug
+Line 16.0 has 99.66996699669967% possibility of containing the bug
+Line 7.0 has 99.66996699669967% possibility of containing the bug
+Line 6.0 has 99.66996699669967% possibility of containing the bug
+Line 14.1 has 99.66777408637874% possibility of containing the bug
+Line 15.0 has 99.66777408637874% possibility of containing the bug
+ 
+ 
+54_22.txt
+Bug contains on line 6
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.1 has 100.0% possibility of containing the bug
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 7.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 32.0 has 100.0% possibility of containing the bug
+Line 22.0 has 100.0% possibility of containing the bug
+Line 21.0 has 100.0% possibility of containing the bug
+Line 20.0 has 100.0% possibility of containing the bug
+Line 19.0 has 100.0% possibility of containing the bug
+Line 18.1 has 100.0% possibility of containing the bug
+Line 18.0 has 100.0% possibility of containing the bug
+Line 17.0 has 100.0% possibility of containing the bug
+Line 16.0 has 100.0% possibility of containing the bug
+Line 15.0 has 100.0% possibility of containing the bug
+Line 14.1 has 100.0% possibility of containing the bug
+Line 14.0 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 12.1 has 100.0% possibility of containing the bug
+Line 12.0 has 100.0% possibility of containing the bug
+Line 4.1 has 99.73290598290599% possibility of containing the bug
+Line 5.0 has 99.73290598290599% possibility of containing the bug
+Line 3.0 has 99.72652689152234% possibility of containing the bug
+Line 4.0 has 99.72652689152234% possibility of containing the bug
+ 
+ 
+.DS_Store
+no test passed
+ 
+ 
+54_21.txt
+Bug contains on line 6
+Line 20.0 has 100.0% possibility of containing the bug
+Line 19.0 has 100.0% possibility of containing the bug
+Line 18.1 has 100.0% possibility of containing the bug
+Line 18.0 has 100.0% possibility of containing the bug
+Line 17.0 has 100.0% possibility of containing the bug
+Line 16.0 has 100.0% possibility of containing the bug
+Line 15.0 has 100.0% possibility of containing the bug
+Line 14.1 has 100.0% possibility of containing the bug
+Line 14.0 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 12.1 has 100.0% possibility of containing the bug
+Line 12.0 has 100.0% possibility of containing the bug
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.1 has 100.0% possibility of containing the bug
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 7.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 4.0 has 100.0% possibility of containing the bug
+Line 3.0 has 100.0% possibility of containing the bug
+Line 5.0 has 100.0% possibility of containing the bug
+Line 4.1 has 100.0% possibility of containing the bug
+Line 31.0 has 100.0% possibility of containing the bug
+Line 30.1 has 100.0% possibility of containing the bug
+Line 30.0 has 100.0% possibility of containing the bug
+Line 24.0 has 100.0% possibility of containing the bug
+Line 23.0 has 100.0% possibility of containing the bug
+Line 22.1 has 100.0% possibility of containing the bug
+Line 22.0 has 100.0% possibility of containing the bug
+Line 21.0 has 100.0% possibility of containing the bug
+ 
+ 
+54_20.txt
+Bug contains on line 6
+Line 18.1 has 100.0% possibility of containing the bug
+Line 18.0 has 100.0% possibility of containing the bug
+Line 17.0 has 100.0% possibility of containing the bug
+Line 16.0 has 100.0% possibility of containing the bug
+Line 15.0 has 100.0% possibility of containing the bug
+Line 14.1 has 100.0% possibility of containing the bug
+Line 14.0 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 12.1 has 100.0% possibility of containing the bug
+Line 12.0 has 100.0% possibility of containing the bug
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.1 has 100.0% possibility of containing the bug
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 7.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 5.0 has 100.0% possibility of containing the bug
+Line 4.1 has 100.0% possibility of containing the bug
+Line 4.0 has 100.0% possibility of containing the bug
+Line 3.0 has 100.0% possibility of containing the bug
+Line 31.0 has 100.0% possibility of containing the bug
+Line 30.1 has 100.0% possibility of containing the bug
+Line 30.0 has 100.0% possibility of containing the bug
+Line 24.0 has 100.0% possibility of containing the bug
+Line 23.0 has 100.0% possibility of containing the bug
+Line 22.1 has 100.0% possibility of containing the bug
+Line 22.0 has 100.0% possibility of containing the bug
+Line 21.0 has 100.0% possibility of containing the bug
+Line 20.0 has 100.0% possibility of containing the bug
+Line 19.0 has 100.0% possibility of containing the bug
+ 
+ 
+83_52.txt
+Bug contains on line 24
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.1 has 100.0% possibility of containing the bug
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 7.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 29.0 has 100.0% possibility of containing the bug
+Line 27.0 has 100.0% possibility of containing the bug
+Line 26.0 has 100.0% possibility of containing the bug
+Line 25.0 has 100.0% possibility of containing the bug
+Line 24.1 has 100.0% possibility of containing the bug
+Line 31.0 has 100.0% possibility of containing the bug
+Line 30.1 has 100.0% possibility of containing the bug
+Line 30.0 has 100.0% possibility of containing the bug
+Line 24.0 has 100.0% possibility of containing the bug
+Line 23.0 has 100.0% possibility of containing the bug
+Line 22.1 has 100.0% possibility of containing the bug
+Line 32.0 has 100.0% possibility of containing the bug
+Line 22.0 has 100.0% possibility of containing the bug
+Line 21.0 has 100.0% possibility of containing the bug
+Line 20.0 has 100.0% possibility of containing the bug
+Line 19.0 has 100.0% possibility of containing the bug
+Line 18.1 has 100.0% possibility of containing the bug
+Line 18.0 has 100.0% possibility of containing the bug
+Line 17.0 has 100.0% possibility of containing the bug
+Line 16.0 has 100.0% possibility of containing the bug
+Line 15.0 has 100.0% possibility of containing the bug
+Line 14.1 has 100.0% possibility of containing the bug
+Line 14.0 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 12.1 has 100.0% possibility of containing the bug
+Line 12.0 has 100.0% possibility of containing the bug
+Line 4.0 has 99.9836921069798% possibility of containing the bug
+Line 3.0 has 99.9836921069798% possibility of containing the bug
+Line 5.0 has 99.98135371993287% possibility of containing the bug
+Line 4.1 has 99.98135371993287% possibility of containing the bug
+ 
+ 
+93_80.txt
+Bug contains on line 30
+Line 14.0 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 12.1 has 100.0% possibility of containing the bug
+Line 12.0 has 100.0% possibility of containing the bug
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.1 has 100.0% possibility of containing the bug
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 7.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 5.0 has 100.0% possibility of containing the bug
+Line 4.1 has 100.0% possibility of containing the bug
+Line 4.0 has 100.0% possibility of containing the bug
+Line 3.0 has 100.0% possibility of containing the bug
+Line 31.0 has 100.0% possibility of containing the bug
+Line 30.1 has 100.0% possibility of containing the bug
+Line 30.0 has 100.0% possibility of containing the bug
+Line 29.0 has 100.0% possibility of containing the bug
+Line 27.0 has 100.0% possibility of containing the bug
+Line 26.0 has 100.0% possibility of containing the bug
+Line 25.0 has 100.0% possibility of containing the bug
+Line 24.1 has 100.0% possibility of containing the bug
+Line 24.0 has 100.0% possibility of containing the bug
+Line 23.0 has 100.0% possibility of containing the bug
+Line 22.1 has 100.0% possibility of containing the bug
+Line 32.0 has 100.0% possibility of containing the bug
+Line 22.0 has 100.0% possibility of containing the bug
+Line 21.0 has 100.0% possibility of containing the bug
+Line 20.0 has 100.0% possibility of containing the bug
+Line 19.0 has 100.0% possibility of containing the bug
+Line 18.1 has 100.0% possibility of containing the bug
+Line 18.0 has 100.0% possibility of containing the bug
+Line 17.0 has 100.0% possibility of containing the bug
+Line 16.0 has 100.0% possibility of containing the bug
+Line 15.0 has 100.0% possibility of containing the bug
+Line 14.1 has 100.0% possibility of containing the bug
+ 
+ 
+93_81.txt
+Bug contains on line 30
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.1 has 100.0% possibility of containing the bug
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 7.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 31.0 has 100.0% possibility of containing the bug
+Line 30.1 has 100.0% possibility of containing the bug
+Line 30.0 has 100.0% possibility of containing the bug
+Line 29.0 has 100.0% possibility of containing the bug
+Line 27.0 has 100.0% possibility of containing the bug
+Line 26.0 has 100.0% possibility of containing the bug
+Line 25.0 has 100.0% possibility of containing the bug
+Line 24.1 has 100.0% possibility of containing the bug
+Line 24.0 has 100.0% possibility of containing the bug
+Line 23.0 has 100.0% possibility of containing the bug
+Line 22.1 has 100.0% possibility of containing the bug
+Line 32.0 has 100.0% possibility of containing the bug
+Line 22.0 has 100.0% possibility of containing the bug
+Line 21.0 has 100.0% possibility of containing the bug
+Line 20.0 has 100.0% possibility of containing the bug
+Line 19.0 has 100.0% possibility of containing the bug
+Line 18.1 has 100.0% possibility of containing the bug
+Line 18.0 has 100.0% possibility of containing the bug
+Line 17.0 has 100.0% possibility of containing the bug
+Line 16.0 has 100.0% possibility of containing the bug
+Line 15.0 has 100.0% possibility of containing the bug
+Line 14.1 has 100.0% possibility of containing the bug
+Line 14.0 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 12.1 has 100.0% possibility of containing the bug
+Line 12.0 has 100.0% possibility of containing the bug
+Line 4.0 has 99.80411361410381% possibility of containing the bug
+Line 3.0 has 99.80411361410381% possibility of containing the bug
+Line 5.0 has 99.77037887485649% possibility of containing the bug
+Line 4.1 has 99.77037887485649% possibility of containing the bug
+ 
+ 
+83_57.txt
+Bug contains on line 24
+Line 20.0 has 100.0% possibility of containing the bug
+Line 19.0 has 100.0% possibility of containing the bug
+Line 18.1 has 100.0% possibility of containing the bug
+Line 18.0 has 100.0% possibility of containing the bug
+Line 17.0 has 100.0% possibility of containing the bug
+Line 16.0 has 100.0% possibility of containing the bug
+Line 15.0 has 100.0% possibility of containing the bug
+Line 14.1 has 100.0% possibility of containing the bug
+Line 14.0 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 12.1 has 100.0% possibility of containing the bug
+Line 12.0 has 100.0% possibility of containing the bug
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.1 has 100.0% possibility of containing the bug
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 7.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 32.0 has 100.0% possibility of containing the bug
+Line 31.0 has 100.0% possibility of containing the bug
+Line 30.1 has 100.0% possibility of containing the bug
+Line 30.0 has 100.0% possibility of containing the bug
+Line 24.0 has 100.0% possibility of containing the bug
+Line 23.0 has 100.0% possibility of containing the bug
+Line 22.1 has 100.0% possibility of containing the bug
+Line 22.0 has 100.0% possibility of containing the bug
+Line 21.0 has 100.0% possibility of containing the bug
+Line 3.0 has 99.93909866017052% possibility of containing the bug
+Line 4.0 has 99.93909866017052% possibility of containing the bug
+Line 4.1 has 99.9290276792051% possibility of containing the bug
+Line 5.0 has 99.9290276792051% possibility of containing the bug
+ 
+ 
+63_28.txt
+no test failed
+ 
+ 
+63_29.txt
+no test failed
+ 
+ 
+48_5.txt
+Bug contains on line 4
+Line 4.1 has 100.0% possibility of containing the bug
+Line 4.0 has 100.0% possibility of containing the bug
+Line 3.0 has 100.0% possibility of containing the bug
+Line 5.0 has 100.0% possibility of containing the bug
+ 
+ 
+50_18.txt
+Bug contains on line 5
+Line 14.0 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 12.1 has 100.0% possibility of containing the bug
+Line 12.0 has 100.0% possibility of containing the bug
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.1 has 100.0% possibility of containing the bug
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 7.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 5.0 has 100.0% possibility of containing the bug
+Line 4.1 has 100.0% possibility of containing the bug
+Line 4.0 has 100.0% possibility of containing the bug
+Line 3.0 has 100.0% possibility of containing the bug
+Line 31.0 has 100.0% possibility of containing the bug
+Line 30.1 has 100.0% possibility of containing the bug
+Line 30.0 has 100.0% possibility of containing the bug
+Line 29.0 has 100.0% possibility of containing the bug
+Line 27.0 has 100.0% possibility of containing the bug
+Line 26.0 has 100.0% possibility of containing the bug
+Line 25.0 has 100.0% possibility of containing the bug
+Line 24.1 has 100.0% possibility of containing the bug
+Line 24.0 has 100.0% possibility of containing the bug
+Line 23.0 has 100.0% possibility of containing the bug
+Line 22.1 has 100.0% possibility of containing the bug
+Line 32.0 has 100.0% possibility of containing the bug
+Line 22.0 has 100.0% possibility of containing the bug
+Line 21.0 has 100.0% possibility of containing the bug
+Line 20.0 has 100.0% possibility of containing the bug
+Line 19.0 has 100.0% possibility of containing the bug
+Line 18.1 has 100.0% possibility of containing the bug
+Line 18.0 has 100.0% possibility of containing the bug
+Line 17.0 has 100.0% possibility of containing the bug
+Line 16.0 has 100.0% possibility of containing the bug
+Line 15.0 has 100.0% possibility of containing the bug
+Line 14.1 has 100.0% possibility of containing the bug
+ 
+ 
+83_56.txt
+no test failed
+ 
+ 
+83_54.txt
+no test failed
+ 
+ 
+80_39.txt
+Bug contains on line 22
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 7.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 31.0 has 100.0% possibility of containing the bug
+Line 30.1 has 100.0% possibility of containing the bug
+Line 32.0 has 100.0% possibility of containing the bug
+Line 28.0 has 100.0% possibility of containing the bug
+Line 27.1 has 100.0% possibility of containing the bug
+Line 30.0 has 100.0% possibility of containing the bug
+Line 29.0 has 100.0% possibility of containing the bug
+Line 27.0 has 100.0% possibility of containing the bug
+Line 26.0 has 100.0% possibility of containing the bug
+Line 25.0 has 100.0% possibility of containing the bug
+Line 24.1 has 100.0% possibility of containing the bug
+Line 24.0 has 100.0% possibility of containing the bug
+Line 23.0 has 100.0% possibility of containing the bug
+Line 22.1 has 100.0% possibility of containing the bug
+Line 22.0 has 100.0% possibility of containing the bug
+Line 21.0 has 100.0% possibility of containing the bug
+Line 20.0 has 100.0% possibility of containing the bug
+Line 19.0 has 100.0% possibility of containing the bug
+Line 18.1 has 100.0% possibility of containing the bug
+Line 18.0 has 100.0% possibility of containing the bug
+Line 17.0 has 100.0% possibility of containing the bug
+Line 16.0 has 100.0% possibility of containing the bug
+Line 15.0 has 100.0% possibility of containing the bug
+Line 14.1 has 100.0% possibility of containing the bug
+Line 14.0 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 12.1 has 100.0% possibility of containing the bug
+Line 12.0 has 100.0% possibility of containing the bug
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.1 has 100.0% possibility of containing the bug
+Line 4.0 has 99.95051954477982% possibility of containing the bug
+Line 3.0 has 99.95051954477982% possibility of containing the bug
+Line 5.0 has 99.94413407821229% possibility of containing the bug
+Line 4.1 has 99.94413407821229% possibility of containing the bug
+ 
+ 
+93_79.txt
+no test failed
+ 
+ 
+48_7.txt
+no test failed
+ 
+ 
+86_70.txt
+Bug contains on line 26
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.1 has 100.0% possibility of containing the bug
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 7.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 29.0 has 100.0% possibility of containing the bug
+Line 27.0 has 100.0% possibility of containing the bug
+Line 26.0 has 100.0% possibility of containing the bug
+Line 25.0 has 100.0% possibility of containing the bug
+Line 24.1 has 100.0% possibility of containing the bug
+Line 31.0 has 100.0% possibility of containing the bug
+Line 30.1 has 100.0% possibility of containing the bug
+Line 30.0 has 100.0% possibility of containing the bug
+Line 24.0 has 100.0% possibility of containing the bug
+Line 23.0 has 100.0% possibility of containing the bug
+Line 22.1 has 100.0% possibility of containing the bug
+Line 32.0 has 100.0% possibility of containing the bug
+Line 22.0 has 100.0% possibility of containing the bug
+Line 21.0 has 100.0% possibility of containing the bug
+Line 20.0 has 100.0% possibility of containing the bug
+Line 19.0 has 100.0% possibility of containing the bug
+Line 18.1 has 100.0% possibility of containing the bug
+Line 18.0 has 100.0% possibility of containing the bug
+Line 17.0 has 100.0% possibility of containing the bug
+Line 16.0 has 100.0% possibility of containing the bug
+Line 15.0 has 100.0% possibility of containing the bug
+Line 14.1 has 100.0% possibility of containing the bug
+Line 14.0 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 12.1 has 100.0% possibility of containing the bug
+Line 12.0 has 100.0% possibility of containing the bug
+Line 5.0 has 99.9001996007984% possibility of containing the bug
+Line 4.1 has 99.9001996007984% possibility of containing the bug
+Line 4.0 has 99.8699609882965% possibility of containing the bug
+Line 3.0 has 99.8699609882965% possibility of containing the bug
+ 
+ 
+86_71.txt
+Bug contains on line 26
+Line 24.1 has 100.0% possibility of containing the bug
+Line 24.0 has 100.0% possibility of containing the bug
+Line 23.0 has 100.0% possibility of containing the bug
+Line 22.1 has 100.0% possibility of containing the bug
+Line 22.0 has 100.0% possibility of containing the bug
+Line 21.0 has 100.0% possibility of containing the bug
+Line 20.0 has 100.0% possibility of containing the bug
+Line 19.0 has 100.0% possibility of containing the bug
+Line 18.1 has 100.0% possibility of containing the bug
+Line 18.0 has 100.0% possibility of containing the bug
+Line 17.0 has 100.0% possibility of containing the bug
+Line 16.0 has 100.0% possibility of containing the bug
+Line 15.0 has 100.0% possibility of containing the bug
+Line 14.1 has 100.0% possibility of containing the bug
+Line 14.0 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 12.1 has 100.0% possibility of containing the bug
+Line 12.0 has 100.0% possibility of containing the bug
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.1 has 100.0% possibility of containing the bug
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 7.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 5.0 has 100.0% possibility of containing the bug
+Line 4.1 has 100.0% possibility of containing the bug
+Line 4.0 has 100.0% possibility of containing the bug
+Line 3.0 has 100.0% possibility of containing the bug
+Line 28.0 has 100.0% possibility of containing the bug
+Line 27.1 has 100.0% possibility of containing the bug
+Line 32.0 has 100.0% possibility of containing the bug
+Line 31.0 has 100.0% possibility of containing the bug
+Line 30.1 has 100.0% possibility of containing the bug
+Line 30.0 has 100.0% possibility of containing the bug
+Line 29.0 has 100.0% possibility of containing the bug
+Line 27.0 has 100.0% possibility of containing the bug
+Line 26.0 has 100.0% possibility of containing the bug
+Line 25.0 has 100.0% possibility of containing the bug
+ 
+ 
+48_6.txt
+Bug contains on line 4
+Line 4.1 has 100.0% possibility of containing the bug
+Line 4.0 has 100.0% possibility of containing the bug
+Line 3.0 has 100.0% possibility of containing the bug
+Line 5.0 has 100.0% possibility of containing the bug
+ 
+ 
+93_78.txt
+Bug contains on line 30
+Line 14.0 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 12.1 has 100.0% possibility of containing the bug
+Line 12.0 has 100.0% possibility of containing the bug
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.1 has 100.0% possibility of containing the bug
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 7.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 5.0 has 100.0% possibility of containing the bug
+Line 4.1 has 100.0% possibility of containing the bug
+Line 4.0 has 100.0% possibility of containing the bug
+Line 3.0 has 100.0% possibility of containing the bug
+Line 32.0 has 100.0% possibility of containing the bug
+Line 31.0 has 100.0% possibility of containing the bug
+Line 30.1 has 100.0% possibility of containing the bug
+Line 30.0 has 100.0% possibility of containing the bug
+Line 29.0 has 100.0% possibility of containing the bug
+Line 27.0 has 100.0% possibility of containing the bug
+Line 26.0 has 100.0% possibility of containing the bug
+Line 25.0 has 100.0% possibility of containing the bug
+Line 24.1 has 100.0% possibility of containing the bug
+Line 24.0 has 100.0% possibility of containing the bug
+Line 23.0 has 100.0% possibility of containing the bug
+Line 22.1 has 100.0% possibility of containing the bug
+Line 22.0 has 100.0% possibility of containing the bug
+Line 21.0 has 100.0% possibility of containing the bug
+Line 20.0 has 100.0% possibility of containing the bug
+Line 19.0 has 100.0% possibility of containing the bug
+Line 18.1 has 100.0% possibility of containing the bug
+Line 18.0 has 100.0% possibility of containing the bug
+Line 17.0 has 100.0% possibility of containing the bug
+Line 16.0 has 100.0% possibility of containing the bug
+Line 15.0 has 100.0% possibility of containing the bug
+Line 14.1 has 100.0% possibility of containing the bug
+ 
+ 
+80_38.txt
+no test failed
+ 
+ 
+83_55.txt
+no test failed
+ 
+ 
+42_0.txt
+no test failed
+ 
+ 
+59_26.txt
+no test failed
+ 
+ 
+50_16.txt
+Bug contains on line 5
+Line 15.0 has 100.0% possibility of containing the bug
+Line 14.1 has 100.0% possibility of containing the bug
+Line 14.0 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 12.1 has 100.0% possibility of containing the bug
+Line 12.0 has 100.0% possibility of containing the bug
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.1 has 100.0% possibility of containing the bug
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 7.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 4.0 has 100.0% possibility of containing the bug
+Line 3.0 has 100.0% possibility of containing the bug
+Line 31.0 has 100.0% possibility of containing the bug
+Line 30.1 has 100.0% possibility of containing the bug
+Line 5.0 has 100.0% possibility of containing the bug
+Line 4.1 has 100.0% possibility of containing the bug
+Line 32.0 has 100.0% possibility of containing the bug
+Line 30.0 has 100.0% possibility of containing the bug
+Line 29.0 has 100.0% possibility of containing the bug
+Line 27.0 has 100.0% possibility of containing the bug
+Line 26.0 has 100.0% possibility of containing the bug
+Line 25.0 has 100.0% possibility of containing the bug
+Line 24.1 has 100.0% possibility of containing the bug
+Line 24.0 has 100.0% possibility of containing the bug
+Line 23.0 has 100.0% possibility of containing the bug
+Line 22.1 has 100.0% possibility of containing the bug
+Line 22.0 has 100.0% possibility of containing the bug
+Line 21.0 has 100.0% possibility of containing the bug
+Line 20.0 has 100.0% possibility of containing the bug
+Line 19.0 has 100.0% possibility of containing the bug
+Line 18.1 has 100.0% possibility of containing the bug
+Line 18.0 has 100.0% possibility of containing the bug
+Line 17.0 has 100.0% possibility of containing the bug
+Line 16.0 has 100.0% possibility of containing the bug
+ 
+ 
+86_68.txt
+Bug contains on line 26
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.1 has 100.0% possibility of containing the bug
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 7.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 32.0 has 100.0% possibility of containing the bug
+Line 31.0 has 100.0% possibility of containing the bug
+Line 30.1 has 100.0% possibility of containing the bug
+Line 30.0 has 100.0% possibility of containing the bug
+Line 29.0 has 100.0% possibility of containing the bug
+Line 27.0 has 100.0% possibility of containing the bug
+Line 26.0 has 100.0% possibility of containing the bug
+Line 25.0 has 100.0% possibility of containing the bug
+Line 24.1 has 100.0% possibility of containing the bug
+Line 24.0 has 100.0% possibility of containing the bug
+Line 23.0 has 100.0% possibility of containing the bug
+Line 22.1 has 100.0% possibility of containing the bug
+Line 22.0 has 100.0% possibility of containing the bug
+Line 21.0 has 100.0% possibility of containing the bug
+Line 20.0 has 100.0% possibility of containing the bug
+Line 19.0 has 100.0% possibility of containing the bug
+Line 18.1 has 100.0% possibility of containing the bug
+Line 18.0 has 100.0% possibility of containing the bug
+Line 17.0 has 100.0% possibility of containing the bug
+Line 16.0 has 100.0% possibility of containing the bug
+Line 15.0 has 100.0% possibility of containing the bug
+Line 14.1 has 100.0% possibility of containing the bug
+Line 14.0 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 12.1 has 100.0% possibility of containing the bug
+Line 12.0 has 100.0% possibility of containing the bug
+Line 4.0 has 99.95007488766849% possibility of containing the bug
+Line 3.0 has 99.95007488766849% possibility of containing the bug
+Line 5.0 has 99.94175888177053% possibility of containing the bug
+Line 4.1 has 99.94175888177053% possibility of containing the bug
+ 
+ 
+63_32.txt
+no test failed
+ 
+ 
+86_69.txt
+Bug contains on line 26
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.1 has 100.0% possibility of containing the bug
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 7.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 31.0 has 100.0% possibility of containing the bug
+Line 30.1 has 100.0% possibility of containing the bug
+Line 30.0 has 100.0% possibility of containing the bug
+Line 29.0 has 100.0% possibility of containing the bug
+Line 27.0 has 100.0% possibility of containing the bug
+Line 26.0 has 100.0% possibility of containing the bug
+Line 25.0 has 100.0% possibility of containing the bug
+Line 24.1 has 100.0% possibility of containing the bug
+Line 24.0 has 100.0% possibility of containing the bug
+Line 23.0 has 100.0% possibility of containing the bug
+Line 22.1 has 100.0% possibility of containing the bug
+Line 32.0 has 100.0% possibility of containing the bug
+Line 22.0 has 100.0% possibility of containing the bug
+Line 21.0 has 100.0% possibility of containing the bug
+Line 20.0 has 100.0% possibility of containing the bug
+Line 19.0 has 100.0% possibility of containing the bug
+Line 18.1 has 100.0% possibility of containing the bug
+Line 18.0 has 100.0% possibility of containing the bug
+Line 17.0 has 100.0% possibility of containing the bug
+Line 16.0 has 100.0% possibility of containing the bug
+Line 15.0 has 100.0% possibility of containing the bug
+Line 14.1 has 100.0% possibility of containing the bug
+Line 14.0 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 12.1 has 100.0% possibility of containing the bug
+Line 12.0 has 100.0% possibility of containing the bug
+Line 5.0 has 99.94022713687986% possibility of containing the bug
+Line 4.1 has 99.94022713687986% possibility of containing the bug
+Line 4.0 has 99.89795918367346% possibility of containing the bug
+Line 3.0 has 99.89795918367346% possibility of containing the bug
+ 
+ 
+50_17.txt
+Bug contains on line 5
+Line 15.0 has 100.0% possibility of containing the bug
+Line 14.1 has 100.0% possibility of containing the bug
+Line 14.0 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 12.1 has 100.0% possibility of containing the bug
+Line 12.0 has 100.0% possibility of containing the bug
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.1 has 100.0% possibility of containing the bug
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 7.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 4.0 has 100.0% possibility of containing the bug
+Line 3.0 has 100.0% possibility of containing the bug
+Line 31.0 has 100.0% possibility of containing the bug
+Line 30.1 has 100.0% possibility of containing the bug
+Line 30.0 has 100.0% possibility of containing the bug
+Line 29.0 has 100.0% possibility of containing the bug
+Line 27.0 has 100.0% possibility of containing the bug
+Line 26.0 has 100.0% possibility of containing the bug
+Line 25.0 has 100.0% possibility of containing the bug
+Line 24.1 has 100.0% possibility of containing the bug
+Line 24.0 has 100.0% possibility of containing the bug
+Line 23.0 has 100.0% possibility of containing the bug
+Line 22.1 has 100.0% possibility of containing the bug
+Line 5.0 has 100.0% possibility of containing the bug
+Line 4.1 has 100.0% possibility of containing the bug
+Line 32.0 has 100.0% possibility of containing the bug
+Line 22.0 has 100.0% possibility of containing the bug
+Line 21.0 has 100.0% possibility of containing the bug
+Line 20.0 has 100.0% possibility of containing the bug
+Line 19.0 has 100.0% possibility of containing the bug
+Line 18.1 has 100.0% possibility of containing the bug
+Line 18.0 has 100.0% possibility of containing the bug
+Line 17.0 has 100.0% possibility of containing the bug
+Line 16.0 has 100.0% possibility of containing the bug
+ 
+ 
+59_27.txt
+no test failed
+ 
+ 
+42_1.txt
+Bug contains on line 10
+Line 2.0 has 100.0% possibility of containing the bug
+Line 1.1 has 100.0% possibility of containing the bug
+Line 1.0 has 100.0% possibility of containing the bug
+ 
+ 
+83_59.txt
+Bug contains on line 24
+Line 14.0 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 12.1 has 100.0% possibility of containing the bug
+Line 12.0 has 100.0% possibility of containing the bug
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.1 has 100.0% possibility of containing the bug
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 7.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 5.0 has 100.0% possibility of containing the bug
+Line 4.1 has 100.0% possibility of containing the bug
+Line 4.0 has 100.0% possibility of containing the bug
+Line 3.0 has 100.0% possibility of containing the bug
+Line 32.0 has 100.0% possibility of containing the bug
+Line 31.0 has 100.0% possibility of containing the bug
+Line 30.1 has 100.0% possibility of containing the bug
+Line 30.0 has 100.0% possibility of containing the bug
+Line 24.0 has 100.0% possibility of containing the bug
+Line 23.0 has 100.0% possibility of containing the bug
+Line 22.1 has 100.0% possibility of containing the bug
+Line 22.0 has 100.0% possibility of containing the bug
+Line 21.0 has 100.0% possibility of containing the bug
+Line 20.0 has 100.0% possibility of containing the bug
+Line 19.0 has 100.0% possibility of containing the bug
+Line 18.1 has 100.0% possibility of containing the bug
+Line 18.0 has 100.0% possibility of containing the bug
+Line 17.0 has 100.0% possibility of containing the bug
+Line 16.0 has 100.0% possibility of containing the bug
+Line 15.0 has 100.0% possibility of containing the bug
+Line 14.1 has 100.0% possibility of containing the bug
+ 
+ 
+42_3.txt
+no test failed
+ 
+ 
+50_15.txt
+no test failed
+ 
+ 
+59_25.txt
+no test failed
+ 
+ 
+48_8.txt
+no test failed
+ 
+ 
+63_30.txt
+no test failed
+ 
+ 
+63_31.txt
+no test failed
+ 
+ 
+48_9.txt
+Bug contains on line 4
+Line 4.1 has 100.0% possibility of containing the bug
+Line 4.0 has 100.0% possibility of containing the bug
+Line 3.0 has 100.0% possibility of containing the bug
+Line 5.0 has 100.0% possibility of containing the bug
+ 
+ 
+93_77.txt
+Bug contains on line 30
+Line 20.0 has 100.0% possibility of containing the bug
+Line 19.0 has 100.0% possibility of containing the bug
+Line 18.1 has 100.0% possibility of containing the bug
+Line 18.0 has 100.0% possibility of containing the bug
+Line 17.0 has 100.0% possibility of containing the bug
+Line 16.0 has 100.0% possibility of containing the bug
+Line 14.0 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 12.1 has 100.0% possibility of containing the bug
+Line 12.0 has 100.0% possibility of containing the bug
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.1 has 100.0% possibility of containing the bug
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 7.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 15.0 has 100.0% possibility of containing the bug
+Line 14.1 has 100.0% possibility of containing the bug
+Line 32.0 has 100.0% possibility of containing the bug
+Line 30.0 has 100.0% possibility of containing the bug
+Line 29.0 has 100.0% possibility of containing the bug
+Line 27.0 has 100.0% possibility of containing the bug
+Line 26.0 has 100.0% possibility of containing the bug
+Line 25.0 has 100.0% possibility of containing the bug
+Line 24.1 has 100.0% possibility of containing the bug
+Line 24.0 has 100.0% possibility of containing the bug
+Line 23.0 has 100.0% possibility of containing the bug
+Line 22.1 has 100.0% possibility of containing the bug
+Line 22.0 has 100.0% possibility of containing the bug
+Line 21.0 has 100.0% possibility of containing the bug
+Line 4.0 has 99.95335820895521% possibility of containing the bug
+Line 3.0 has 99.95335820895521% possibility of containing the bug
+Line 5.0 has 99.94538503549973% possibility of containing the bug
+Line 4.1 has 99.94538503549973% possibility of containing the bug
+ 
+ 
+59_24.txt
+no test failed
+ 
+ 
+50_14.txt
+no test failed
+ 
+ 
+42_2.txt
+Bug contains on line 5
+Line 2.0 has 100.0% possibility of containing the bug
+Line 1.1 has 100.0% possibility of containing the bug
+Line 1.0 has 100.0% possibility of containing the bug
+ 
+ 
+83_62.txt
+Bug contains on line 24
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.1 has 100.0% possibility of containing the bug
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 28.0 has 100.0% possibility of containing the bug
+Line 27.1 has 100.0% possibility of containing the bug
+Line 31.0 has 100.0% possibility of containing the bug
+Line 30.1 has 100.0% possibility of containing the bug
+Line 30.0 has 100.0% possibility of containing the bug
+Line 29.0 has 100.0% possibility of containing the bug
+Line 27.0 has 100.0% possibility of containing the bug
+Line 26.0 has 100.0% possibility of containing the bug
+Line 25.0 has 100.0% possibility of containing the bug
+Line 24.1 has 100.0% possibility of containing the bug
+Line 24.0 has 100.0% possibility of containing the bug
+Line 23.0 has 100.0% possibility of containing the bug
+Line 22.1 has 100.0% possibility of containing the bug
+Line 7.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 32.0 has 100.0% possibility of containing the bug
+Line 22.0 has 100.0% possibility of containing the bug
+Line 21.0 has 100.0% possibility of containing the bug
+Line 20.0 has 100.0% possibility of containing the bug
+Line 19.0 has 100.0% possibility of containing the bug
+Line 18.1 has 100.0% possibility of containing the bug
+Line 18.0 has 100.0% possibility of containing the bug
+Line 17.0 has 100.0% possibility of containing the bug
+Line 16.0 has 100.0% possibility of containing the bug
+Line 15.0 has 100.0% possibility of containing the bug
+Line 14.1 has 100.0% possibility of containing the bug
+Line 14.0 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 12.1 has 100.0% possibility of containing the bug
+Line 12.0 has 100.0% possibility of containing the bug
+Line 5.0 has 99.9244142101285% possibility of containing the bug
+Line 4.1 has 99.9244142101285% possibility of containing the bug
+Line 4.0 has 99.91256830601093% possibility of containing the bug
+Line 3.0 has 99.91256830601093% possibility of containing the bug
+ 
+ 
+83_63.txt
+Bug contains on line 24
+Line 20.0 has 100.0% possibility of containing the bug
+Line 19.0 has 100.0% possibility of containing the bug
+Line 18.1 has 100.0% possibility of containing the bug
+Line 18.0 has 100.0% possibility of containing the bug
+Line 17.0 has 100.0% possibility of containing the bug
+Line 16.0 has 100.0% possibility of containing the bug
+Line 15.0 has 100.0% possibility of containing the bug
+Line 14.1 has 100.0% possibility of containing the bug
+Line 14.0 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 12.1 has 100.0% possibility of containing the bug
+Line 12.0 has 100.0% possibility of containing the bug
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.1 has 100.0% possibility of containing the bug
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 7.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 32.0 has 100.0% possibility of containing the bug
+Line 31.0 has 100.0% possibility of containing the bug
+Line 30.1 has 100.0% possibility of containing the bug
+Line 30.0 has 100.0% possibility of containing the bug
+Line 24.0 has 100.0% possibility of containing the bug
+Line 23.0 has 100.0% possibility of containing the bug
+Line 22.1 has 100.0% possibility of containing the bug
+Line 22.0 has 100.0% possibility of containing the bug
+Line 21.0 has 100.0% possibility of containing the bug
+Line 3.0 has 99.7305792546026% possibility of containing the bug
+Line 4.0 has 99.7305792546026% possibility of containing the bug
+Line 4.1 has 99.68895800933126% possibility of containing the bug
+Line 5.0 has 99.68895800933126% possibility of containing the bug
+ 
+ 
+83_61.txt
+no test failed
+ 
+ 
+83_49.txt
+Bug contains on line 24
+Line 15.0 has 100.0% possibility of containing the bug
+Line 14.1 has 100.0% possibility of containing the bug
+Line 14.0 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 12.1 has 100.0% possibility of containing the bug
+Line 12.0 has 100.0% possibility of containing the bug
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.1 has 100.0% possibility of containing the bug
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 7.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 4.0 has 100.0% possibility of containing the bug
+Line 3.0 has 100.0% possibility of containing the bug
+Line 32.0 has 100.0% possibility of containing the bug
+Line 29.0 has 100.0% possibility of containing the bug
+Line 27.0 has 100.0% possibility of containing the bug
+Line 26.0 has 100.0% possibility of containing the bug
+Line 25.0 has 100.0% possibility of containing the bug
+Line 24.1 has 100.0% possibility of containing the bug
+Line 5.0 has 100.0% possibility of containing the bug
+Line 4.1 has 100.0% possibility of containing the bug
+Line 31.0 has 100.0% possibility of containing the bug
+Line 30.1 has 100.0% possibility of containing the bug
+Line 30.0 has 100.0% possibility of containing the bug
+Line 24.0 has 100.0% possibility of containing the bug
+Line 23.0 has 100.0% possibility of containing the bug
+Line 22.1 has 100.0% possibility of containing the bug
+Line 22.0 has 100.0% possibility of containing the bug
+Line 21.0 has 100.0% possibility of containing the bug
+Line 20.0 has 100.0% possibility of containing the bug
+Line 19.0 has 100.0% possibility of containing the bug
+Line 18.1 has 100.0% possibility of containing the bug
+Line 18.0 has 100.0% possibility of containing the bug
+Line 17.0 has 100.0% possibility of containing the bug
+Line 16.0 has 100.0% possibility of containing the bug
+ 
+ 
+59_23.txt
+no test failed
+ 
+ 
+42_4.txt
+Bug contains on line 10
+Line 2.0 has 100.0% possibility of containing the bug
+Line 1.1 has 100.0% possibility of containing the bug
+Line 1.0 has 100.0% possibility of containing the bug
+ 
+ 
+83_60.txt
+Bug contains on line 24
+Line 15.0 has 100.0% possibility of containing the bug
+Line 14.1 has 100.0% possibility of containing the bug
+Line 14.0 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 12.1 has 100.0% possibility of containing the bug
+Line 12.0 has 100.0% possibility of containing the bug
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.1 has 100.0% possibility of containing the bug
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 7.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 4.0 has 100.0% possibility of containing the bug
+Line 3.0 has 100.0% possibility of containing the bug
+Line 32.0 has 100.0% possibility of containing the bug
+Line 5.0 has 100.0% possibility of containing the bug
+Line 4.1 has 100.0% possibility of containing the bug
+Line 31.0 has 100.0% possibility of containing the bug
+Line 30.1 has 100.0% possibility of containing the bug
+Line 30.0 has 100.0% possibility of containing the bug
+Line 24.0 has 100.0% possibility of containing the bug
+Line 23.0 has 100.0% possibility of containing the bug
+Line 22.1 has 100.0% possibility of containing the bug
+Line 22.0 has 100.0% possibility of containing the bug
+Line 21.0 has 100.0% possibility of containing the bug
+Line 20.0 has 100.0% possibility of containing the bug
+Line 19.0 has 100.0% possibility of containing the bug
+Line 18.1 has 100.0% possibility of containing the bug
+Line 18.0 has 100.0% possibility of containing the bug
+Line 17.0 has 100.0% possibility of containing the bug
+Line 16.0 has 100.0% possibility of containing the bug
+ 
+ 
+80_42.txt
+Bug contains on line 22
+Line 20.0 has 100.0% possibility of containing the bug
+Line 19.0 has 100.0% possibility of containing the bug
+Line 18.1 has 100.0% possibility of containing the bug
+Line 18.0 has 100.0% possibility of containing the bug
+Line 17.0 has 100.0% possibility of containing the bug
+Line 16.0 has 100.0% possibility of containing the bug
+Line 15.0 has 100.0% possibility of containing the bug
+Line 14.1 has 100.0% possibility of containing the bug
+Line 14.0 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 12.1 has 100.0% possibility of containing the bug
+Line 12.0 has 100.0% possibility of containing the bug
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.1 has 100.0% possibility of containing the bug
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 7.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 4.0 has 100.0% possibility of containing the bug
+Line 3.0 has 100.0% possibility of containing the bug
+Line 28.0 has 100.0% possibility of containing the bug
+Line 27.1 has 100.0% possibility of containing the bug
+Line 27.0 has 100.0% possibility of containing the bug
+Line 26.0 has 100.0% possibility of containing the bug
+Line 25.0 has 100.0% possibility of containing the bug
+Line 24.1 has 100.0% possibility of containing the bug
+Line 32.0 has 100.0% possibility of containing the bug
+Line 5.0 has 100.0% possibility of containing the bug
+Line 4.1 has 100.0% possibility of containing the bug
+Line 31.0 has 100.0% possibility of containing the bug
+Line 30.1 has 100.0% possibility of containing the bug
+Line 30.0 has 100.0% possibility of containing the bug
+Line 24.0 has 100.0% possibility of containing the bug
+Line 23.0 has 100.0% possibility of containing the bug
+Line 22.1 has 100.0% possibility of containing the bug
+Line 22.0 has 100.0% possibility of containing the bug
+Line 21.0 has 100.0% possibility of containing the bug
+ 
+ 
+85_66.txt
+Bug contains on line 25
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.1 has 100.0% possibility of containing the bug
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 32.0 has 100.0% possibility of containing the bug
+Line 28.0 has 100.0% possibility of containing the bug
+Line 27.1 has 100.0% possibility of containing the bug
+Line 27.0 has 100.0% possibility of containing the bug
+Line 26.0 has 100.0% possibility of containing the bug
+Line 25.0 has 100.0% possibility of containing the bug
+Line 24.1 has 100.0% possibility of containing the bug
+Line 7.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 31.0 has 100.0% possibility of containing the bug
+Line 30.1 has 100.0% possibility of containing the bug
+Line 30.0 has 100.0% possibility of containing the bug
+Line 24.0 has 100.0% possibility of containing the bug
+Line 23.0 has 100.0% possibility of containing the bug
+Line 22.1 has 100.0% possibility of containing the bug
+Line 22.0 has 100.0% possibility of containing the bug
+Line 21.0 has 100.0% possibility of containing the bug
+Line 20.0 has 100.0% possibility of containing the bug
+Line 19.0 has 100.0% possibility of containing the bug
+Line 18.1 has 100.0% possibility of containing the bug
+Line 18.0 has 100.0% possibility of containing the bug
+Line 17.0 has 100.0% possibility of containing the bug
+Line 16.0 has 100.0% possibility of containing the bug
+Line 15.0 has 100.0% possibility of containing the bug
+Line 14.1 has 100.0% possibility of containing the bug
+Line 14.0 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 12.1 has 100.0% possibility of containing the bug
+Line 12.0 has 100.0% possibility of containing the bug
+Line 3.0 has 99.75786924939467% possibility of containing the bug
+Line 4.0 has 99.75786924939467% possibility of containing the bug
+Line 4.1 has 99.71811134601832% possibility of containing the bug
+Line 5.0 has 99.71811134601832% possibility of containing the bug
+ 
+ 
+67_34.txt
+no test failed
+ 
+ 
+67_35.txt
+no test failed
+ 
+ 
+85_67.txt
+Bug contains on line 25
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.1 has 100.0% possibility of containing the bug
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 7.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 31.0 has 100.0% possibility of containing the bug
+Line 30.1 has 100.0% possibility of containing the bug
+Line 30.0 has 100.0% possibility of containing the bug
+Line 32.0 has 100.0% possibility of containing the bug
+Line 29.0 has 100.0% possibility of containing the bug
+Line 27.0 has 100.0% possibility of containing the bug
+Line 26.0 has 100.0% possibility of containing the bug
+Line 25.0 has 100.0% possibility of containing the bug
+Line 24.1 has 100.0% possibility of containing the bug
+Line 24.0 has 100.0% possibility of containing the bug
+Line 23.0 has 100.0% possibility of containing the bug
+Line 22.1 has 100.0% possibility of containing the bug
+Line 22.0 has 100.0% possibility of containing the bug
+Line 21.0 has 100.0% possibility of containing the bug
+Line 20.0 has 100.0% possibility of containing the bug
+Line 19.0 has 100.0% possibility of containing the bug
+Line 18.1 has 100.0% possibility of containing the bug
+Line 18.0 has 100.0% possibility of containing the bug
+Line 17.0 has 100.0% possibility of containing the bug
+Line 16.0 has 100.0% possibility of containing the bug
+Line 15.0 has 100.0% possibility of containing the bug
+Line 14.1 has 100.0% possibility of containing the bug
+Line 14.0 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 12.1 has 100.0% possibility of containing the bug
+Line 12.0 has 100.0% possibility of containing the bug
+Line 4.0 has 99.94722955145119% possibility of containing the bug
+Line 3.0 has 99.94722955145119% possibility of containing the bug
+Line 5.0 has 99.93913572732805% possibility of containing the bug
+Line 4.1 has 99.93913572732805% possibility of containing the bug
+ 
+ 
+87_76.txt
+Bug contains on line 27
+Line 18.1 has 100.0% possibility of containing the bug
+Line 18.0 has 100.0% possibility of containing the bug
+Line 17.0 has 100.0% possibility of containing the bug
+Line 16.0 has 100.0% possibility of containing the bug
+Line 15.0 has 100.0% possibility of containing the bug
+Line 14.1 has 100.0% possibility of containing the bug
+Line 14.0 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 12.1 has 100.0% possibility of containing the bug
+Line 12.0 has 100.0% possibility of containing the bug
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.1 has 100.0% possibility of containing the bug
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 7.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 5.0 has 100.0% possibility of containing the bug
+Line 4.1 has 100.0% possibility of containing the bug
+Line 4.0 has 100.0% possibility of containing the bug
+Line 3.0 has 100.0% possibility of containing the bug
+Line 31.0 has 100.0% possibility of containing the bug
+Line 30.1 has 100.0% possibility of containing the bug
+Line 30.0 has 100.0% possibility of containing the bug
+Line 28.0 has 100.0% possibility of containing the bug
+Line 27.1 has 100.0% possibility of containing the bug
+Line 27.0 has 100.0% possibility of containing the bug
+Line 26.0 has 100.0% possibility of containing the bug
+Line 25.0 has 100.0% possibility of containing the bug
+Line 24.1 has 100.0% possibility of containing the bug
+Line 24.0 has 100.0% possibility of containing the bug
+Line 23.0 has 100.0% possibility of containing the bug
+Line 22.1 has 100.0% possibility of containing the bug
+Line 32.0 has 100.0% possibility of containing the bug
+Line 22.0 has 100.0% possibility of containing the bug
+Line 21.0 has 100.0% possibility of containing the bug
+Line 20.0 has 100.0% possibility of containing the bug
+Line 19.0 has 100.0% possibility of containing the bug
+ 
+ 
+80_43.txt
+Bug contains on line 22
+Line 24.1 has 100.0% possibility of containing the bug
+Line 24.0 has 100.0% possibility of containing the bug
+Line 23.0 has 100.0% possibility of containing the bug
+Line 22.1 has 100.0% possibility of containing the bug
+Line 22.0 has 100.0% possibility of containing the bug
+Line 21.0 has 100.0% possibility of containing the bug
+Line 20.0 has 100.0% possibility of containing the bug
+Line 19.0 has 100.0% possibility of containing the bug
+Line 18.1 has 100.0% possibility of containing the bug
+Line 18.0 has 100.0% possibility of containing the bug
+Line 17.0 has 100.0% possibility of containing the bug
+Line 16.0 has 100.0% possibility of containing the bug
+Line 15.0 has 100.0% possibility of containing the bug
+Line 14.1 has 100.0% possibility of containing the bug
+Line 14.0 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 12.1 has 100.0% possibility of containing the bug
+Line 12.0 has 100.0% possibility of containing the bug
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.1 has 100.0% possibility of containing the bug
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 7.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 5.0 has 100.0% possibility of containing the bug
+Line 4.1 has 100.0% possibility of containing the bug
+Line 4.0 has 100.0% possibility of containing the bug
+Line 3.0 has 100.0% possibility of containing the bug
+Line 31.0 has 100.0% possibility of containing the bug
+Line 30.1 has 100.0% possibility of containing the bug
+Line 29.0 has 100.0% possibility of containing the bug
+Line 32.0 has 100.0% possibility of containing the bug
+Line 30.0 has 100.0% possibility of containing the bug
+Line 28.0 has 100.0% possibility of containing the bug
+Line 27.1 has 100.0% possibility of containing the bug
+Line 27.0 has 100.0% possibility of containing the bug
+Line 26.0 has 100.0% possibility of containing the bug
+Line 25.0 has 100.0% possibility of containing the bug
+ 
+ 
+80_41.txt
+Bug contains on line 22
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 7.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 28.0 has 100.0% possibility of containing the bug
+Line 27.1 has 100.0% possibility of containing the bug
+Line 27.0 has 100.0% possibility of containing the bug
+Line 26.0 has 100.0% possibility of containing the bug
+Line 25.0 has 100.0% possibility of containing the bug
+Line 24.1 has 100.0% possibility of containing the bug
+Line 31.0 has 100.0% possibility of containing the bug
+Line 30.1 has 100.0% possibility of containing the bug
+Line 30.0 has 100.0% possibility of containing the bug
+Line 24.0 has 100.0% possibility of containing the bug
+Line 23.0 has 100.0% possibility of containing the bug
+Line 22.1 has 100.0% possibility of containing the bug
+Line 32.0 has 100.0% possibility of containing the bug
+Line 22.0 has 100.0% possibility of containing the bug
+Line 21.0 has 100.0% possibility of containing the bug
+Line 20.0 has 100.0% possibility of containing the bug
+Line 19.0 has 100.0% possibility of containing the bug
+Line 18.1 has 100.0% possibility of containing the bug
+Line 18.0 has 100.0% possibility of containing the bug
+Line 17.0 has 100.0% possibility of containing the bug
+Line 16.0 has 100.0% possibility of containing the bug
+Line 15.0 has 100.0% possibility of containing the bug
+Line 14.1 has 100.0% possibility of containing the bug
+Line 14.0 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 12.1 has 100.0% possibility of containing the bug
+Line 12.0 has 100.0% possibility of containing the bug
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.1 has 100.0% possibility of containing the bug
+Line 3.0 has 99.58634953464323% possibility of containing the bug
+Line 4.0 has 99.58634953464323% possibility of containing the bug
+Line 4.1 has 99.523241954708% possibility of containing the bug
+Line 5.0 has 99.523241954708% possibility of containing the bug
+ 
+ 
+87_74.txt
+no test failed
+ 
+ 
+85_65.txt
+Bug contains on line 25
+Line 14.0 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 12.1 has 100.0% possibility of containing the bug
+Line 12.0 has 100.0% possibility of containing the bug
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.1 has 100.0% possibility of containing the bug
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 7.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 5.0 has 100.0% possibility of containing the bug
+Line 4.1 has 100.0% possibility of containing the bug
+Line 4.0 has 100.0% possibility of containing the bug
+Line 3.0 has 100.0% possibility of containing the bug
+Line 32.0 has 100.0% possibility of containing the bug
+Line 31.0 has 100.0% possibility of containing the bug
+Line 30.1 has 100.0% possibility of containing the bug
+Line 30.0 has 100.0% possibility of containing the bug
+Line 29.0 has 100.0% possibility of containing the bug
+Line 27.0 has 100.0% possibility of containing the bug
+Line 26.0 has 100.0% possibility of containing the bug
+Line 25.0 has 100.0% possibility of containing the bug
+Line 24.1 has 100.0% possibility of containing the bug
+Line 24.0 has 100.0% possibility of containing the bug
+Line 23.0 has 100.0% possibility of containing the bug
+Line 22.1 has 100.0% possibility of containing the bug
+Line 22.0 has 100.0% possibility of containing the bug
+Line 21.0 has 100.0% possibility of containing the bug
+Line 20.0 has 100.0% possibility of containing the bug
+Line 19.0 has 100.0% possibility of containing the bug
+Line 18.1 has 100.0% possibility of containing the bug
+Line 18.0 has 100.0% possibility of containing the bug
+Line 17.0 has 100.0% possibility of containing the bug
+Line 16.0 has 100.0% possibility of containing the bug
+Line 15.0 has 100.0% possibility of containing the bug
+Line 14.1 has 100.0% possibility of containing the bug
+ 
+ 
+67_37.txt
+no test failed
+ 
+ 
+67_36.txt
+no test failed
+ 
+ 
+85_64.txt
+Bug contains on line 25
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.1 has 100.0% possibility of containing the bug
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 7.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 31.0 has 100.0% possibility of containing the bug
+Line 30.1 has 100.0% possibility of containing the bug
+Line 30.0 has 100.0% possibility of containing the bug
+Line 29.0 has 100.0% possibility of containing the bug
+Line 27.0 has 100.0% possibility of containing the bug
+Line 26.0 has 100.0% possibility of containing the bug
+Line 25.0 has 100.0% possibility of containing the bug
+Line 24.1 has 100.0% possibility of containing the bug
+Line 24.0 has 100.0% possibility of containing the bug
+Line 23.0 has 100.0% possibility of containing the bug
+Line 22.1 has 100.0% possibility of containing the bug
+Line 32.0 has 100.0% possibility of containing the bug
+Line 22.0 has 100.0% possibility of containing the bug
+Line 21.0 has 100.0% possibility of containing the bug
+Line 20.0 has 100.0% possibility of containing the bug
+Line 19.0 has 100.0% possibility of containing the bug
+Line 18.1 has 100.0% possibility of containing the bug
+Line 18.0 has 100.0% possibility of containing the bug
+Line 17.0 has 100.0% possibility of containing the bug
+Line 16.0 has 100.0% possibility of containing the bug
+Line 15.0 has 100.0% possibility of containing the bug
+Line 14.1 has 100.0% possibility of containing the bug
+Line 14.0 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 12.1 has 100.0% possibility of containing the bug
+Line 12.0 has 100.0% possibility of containing the bug
+Line 4.0 has 99.95311767463664% possibility of containing the bug
+Line 3.0 has 99.95311767463664% possibility of containing the bug
+Line 5.0 has 99.94577006507592% possibility of containing the bug
+Line 4.1 has 99.94577006507592% possibility of containing the bug
+ 
+ 
+87_75.txt
+no test failed
+ 
+ 
+80_40.txt
+Bug contains on line 22
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.1 has 100.0% possibility of containing the bug
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 7.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 32.0 has 100.0% possibility of containing the bug
+Line 22.0 has 100.0% possibility of containing the bug
+Line 21.0 has 100.0% possibility of containing the bug
+Line 20.0 has 100.0% possibility of containing the bug
+Line 19.0 has 100.0% possibility of containing the bug
+Line 18.1 has 100.0% possibility of containing the bug
+Line 18.0 has 100.0% possibility of containing the bug
+Line 17.0 has 100.0% possibility of containing the bug
+Line 16.0 has 100.0% possibility of containing the bug
+Line 15.0 has 100.0% possibility of containing the bug
+Line 14.1 has 100.0% possibility of containing the bug
+Line 14.0 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 12.1 has 100.0% possibility of containing the bug
+Line 12.0 has 100.0% possibility of containing the bug
+Line 3.0 has 99.84070091596973% possibility of containing the bug
+Line 4.0 has 99.84070091596973% possibility of containing the bug
+Line 4.1 has 99.81558321807285% possibility of containing the bug
+Line 5.0 has 99.81558321807285% possibility of containing the bug
+ 
+ 
+80_44.txt
+no test failed
+ 
+ 
+48_12.txt
+no test failed
+ 
+ 
+67_33.txt
+no test failed
+ 
+ 
+48_13.txt
+no test failed
+ 
+ 
+80_45.txt
+no test failed
+ 
+ 
+87_72.txt
+Bug contains on line 27
+Line 18.1 has 100.0% possibility of containing the bug
+Line 18.0 has 100.0% possibility of containing the bug
+Line 17.0 has 100.0% possibility of containing the bug
+Line 16.0 has 100.0% possibility of containing the bug
+Line 15.0 has 100.0% possibility of containing the bug
+Line 14.1 has 100.0% possibility of containing the bug
+Line 14.0 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 12.1 has 100.0% possibility of containing the bug
+Line 12.0 has 100.0% possibility of containing the bug
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.1 has 100.0% possibility of containing the bug
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 7.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 5.0 has 100.0% possibility of containing the bug
+Line 4.1 has 100.0% possibility of containing the bug
+Line 4.0 has 100.0% possibility of containing the bug
+Line 3.0 has 100.0% possibility of containing the bug
+Line 31.0 has 100.0% possibility of containing the bug
+Line 30.1 has 100.0% possibility of containing the bug
+Line 30.0 has 100.0% possibility of containing the bug
+Line 32.0 has 100.0% possibility of containing the bug
+Line 28.0 has 100.0% possibility of containing the bug
+Line 27.1 has 100.0% possibility of containing the bug
+Line 27.0 has 100.0% possibility of containing the bug
+Line 26.0 has 100.0% possibility of containing the bug
+Line 25.0 has 100.0% possibility of containing the bug
+Line 24.1 has 100.0% possibility of containing the bug
+Line 24.0 has 100.0% possibility of containing the bug
+Line 23.0 has 100.0% possibility of containing the bug
+Line 22.1 has 100.0% possibility of containing the bug
+Line 22.0 has 100.0% possibility of containing the bug
+Line 21.0 has 100.0% possibility of containing the bug
+Line 20.0 has 100.0% possibility of containing the bug
+Line 19.0 has 100.0% possibility of containing the bug
+ 
+ 
+80_47.txt
+Bug contains on line 22
+Line 30.0 has 100.0% possibility of containing the bug
+Line 24.0 has 100.0% possibility of containing the bug
+Line 23.0 has 100.0% possibility of containing the bug
+Line 22.1 has 100.0% possibility of containing the bug
+Line 22.0 has 100.0% possibility of containing the bug
+Line 21.0 has 100.0% possibility of containing the bug
+Line 20.0 has 100.0% possibility of containing the bug
+Line 19.0 has 100.0% possibility of containing the bug
+Line 18.1 has 100.0% possibility of containing the bug
+Line 18.0 has 100.0% possibility of containing the bug
+Line 17.0 has 100.0% possibility of containing the bug
+Line 16.0 has 100.0% possibility of containing the bug
+Line 15.0 has 100.0% possibility of containing the bug
+Line 14.1 has 100.0% possibility of containing the bug
+Line 14.0 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 12.1 has 100.0% possibility of containing the bug
+Line 12.0 has 100.0% possibility of containing the bug
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.1 has 100.0% possibility of containing the bug
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 7.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 32.0 has 100.0% possibility of containing the bug
+Line 3.0 has 99.95719178082192% possibility of containing the bug
+Line 4.0 has 99.95719178082192% possibility of containing the bug
+Line 4.1 has 99.95083579154375% possibility of containing the bug
+Line 5.0 has 99.95083579154375% possibility of containing the bug
+ 
+ 
+48_11.txt
+no test failed
+ 
+ 
+48_10.txt
+no test failed
+ 
+ 
+80_46.txt
+Bug contains on line 22
+Line 4.1 has 100.0% possibility of containing the bug
+Line 4.0 has 100.0% possibility of containing the bug
+Line 3.0 has 100.0% possibility of containing the bug
+Line 32.0 has 100.0% possibility of containing the bug
+Line 22.0 has 100.0% possibility of containing the bug
+Line 21.0 has 100.0% possibility of containing the bug
+Line 20.0 has 100.0% possibility of containing the bug
+Line 19.0 has 100.0% possibility of containing the bug
+Line 18.1 has 100.0% possibility of containing the bug
+Line 18.0 has 100.0% possibility of containing the bug
+Line 17.0 has 100.0% possibility of containing the bug
+Line 16.0 has 100.0% possibility of containing the bug
+Line 15.0 has 100.0% possibility of containing the bug
+Line 14.1 has 100.0% possibility of containing the bug
+Line 14.0 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 12.1 has 100.0% possibility of containing the bug
+Line 12.0 has 100.0% possibility of containing the bug
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.1 has 100.0% possibility of containing the bug
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 7.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 5.0 has 100.0% possibility of containing the bug
+ 
+ 
+87_73.txt
+Bug contains on line 27
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 7.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 32.0 has 100.0% possibility of containing the bug
+Line 28.0 has 100.0% possibility of containing the bug
+Line 27.1 has 100.0% possibility of containing the bug
+Line 27.0 has 100.0% possibility of containing the bug
+Line 26.0 has 100.0% possibility of containing the bug
+Line 25.0 has 100.0% possibility of containing the bug
+Line 24.1 has 100.0% possibility of containing the bug
+Line 31.0 has 100.0% possibility of containing the bug
+Line 30.1 has 100.0% possibility of containing the bug
+Line 30.0 has 100.0% possibility of containing the bug
+Line 24.0 has 100.0% possibility of containing the bug
+Line 23.0 has 100.0% possibility of containing the bug
+Line 22.1 has 100.0% possibility of containing the bug
+Line 22.0 has 100.0% possibility of containing the bug
+Line 21.0 has 100.0% possibility of containing the bug
+Line 20.0 has 100.0% possibility of containing the bug
+Line 19.0 has 100.0% possibility of containing the bug
+Line 18.1 has 100.0% possibility of containing the bug
+Line 18.0 has 100.0% possibility of containing the bug
+Line 17.0 has 100.0% possibility of containing the bug
+Line 16.0 has 100.0% possibility of containing the bug
+Line 15.0 has 100.0% possibility of containing the bug
+Line 14.1 has 100.0% possibility of containing the bug
+Line 14.0 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 12.1 has 100.0% possibility of containing the bug
+Line 12.0 has 100.0% possibility of containing the bug
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.1 has 100.0% possibility of containing the bug
+Line 3.0 has 99.93043478260869% possibility of containing the bug
+Line 4.0 has 99.93043478260869% possibility of containing the bug
+Line 4.1 has 99.92125984251969% possibility of containing the bug
+Line 5.0 has 99.92125984251969% possibility of containing the bug
+ 
+ 

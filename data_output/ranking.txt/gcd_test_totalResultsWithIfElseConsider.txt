@@ -1,0 +1,148 @@
+49_7.txt
+no test passed
+ 
+ 
+.DS_Store
+no test passed
+ 
+ 
+49_6.txt
+no test passed
+ 
+ 
+62_22.txt
+not in if-else condition
+ 
+ 
+60_18.txt
+no test passed
+ 
+ 
+49_5.txt
+no test failed
+ 
+ 
+40_2.txt
+no test failed
+ 
+ 
+40_3.txt
+Bug contains on line 2
+Line 7.0 has 100.0% possibility of containing the bug
+Line 5.2 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 12.0 has 100.0% possibility of containing the bug
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.1 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 5.1 has 100.0% possibility of containing the bug
+Line 5.0 has 100.0% possibility of containing the bug
+Line 4.0 has 100.0% possibility of containing the bug
+Line 2.2 has 100.0% possibility of containing the bug
+Line 2.0 has 100.0% possibility of containing the bug
+Line 1.0 has 100.0% possibility of containing the bug
+ 
+ 
+40_1.txt
+no test passed
+ 
+ 
+40_0.txt
+no test passed
+ 
+ 
+40_4.txt
+Bug contains on line 2
+Line 12.0 has 100.0% possibility of containing the bug
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.1 has 100.0% possibility of containing the bug
+Line 7.0 has 100.0% possibility of containing the bug
+Line 5.2 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 5.1 has 100.0% possibility of containing the bug
+Line 5.0 has 100.0% possibility of containing the bug
+Line 3.0 has 100.0% possibility of containing the bug
+Line 2.1 has 100.0% possibility of containing the bug
+Line 2.0 has 100.0% possibility of containing the bug
+Line 1.0 has 100.0% possibility of containing the bug
+ 
+ 
+49_8.txt
+Bug contains on line 5
+Line 12.0 has 100.0% possibility of containing the bug
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.1 has 100.0% possibility of containing the bug
+Line 3.0 has 100.0% possibility of containing the bug
+Line 2.1 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 7.0 has 100.0% possibility of containing the bug
+Line 5.2 has 100.0% possibility of containing the bug
+Line 5.0 has 100.0% possibility of containing the bug
+Line 4.0 has 100.0% possibility of containing the bug
+Line 2.2 has 100.0% possibility of containing the bug
+Line 2.0 has 100.0% possibility of containing the bug
+Line 1.0 has 100.0% possibility of containing the bug
+ 
+ 
+60_15.txt
+no test passed
+ 
+ 
+60_14.txt
+no test passed
+ 
+ 
+49_9.txt
+Bug contains on line 5
+Line 12.0 has 100.0% possibility of containing the bug
+Line 11.0 has 100.0% possibility of containing the bug
+Line 10.0 has 100.0% possibility of containing the bug
+Line 9.1 has 100.0% possibility of containing the bug
+Line 4.0 has 100.0% possibility of containing the bug
+Line 2.2 has 100.0% possibility of containing the bug
+Line 13.0 has 100.0% possibility of containing the bug
+Line 9.0 has 100.0% possibility of containing the bug
+Line 8.0 has 100.0% possibility of containing the bug
+Line 6.0 has 100.0% possibility of containing the bug
+Line 5.1 has 100.0% possibility of containing the bug
+Line 5.0 has 100.0% possibility of containing the bug
+Line 3.0 has 100.0% possibility of containing the bug
+Line 2.1 has 100.0% possibility of containing the bug
+Line 2.0 has 100.0% possibility of containing the bug
+Line 1.0 has 100.0% possibility of containing the bug
+ 
+ 
+60_16.txt
+no test failed
+ 
+ 
+60_17.txt
+no test passed
+ 
+ 
+60_13.txt
+no test passed
+ 
+ 
+60_12.txt
+no test passed
+ 
+ 
+60_10.txt
+no test passed
+ 
+ 
+60_11.txt
+no test passed
+ 
+ 

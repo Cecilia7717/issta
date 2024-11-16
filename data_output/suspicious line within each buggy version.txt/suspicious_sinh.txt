@@ -1,0 +1,2101 @@
+sinh_test_results/29_24.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/91_131.txt
+The bug is on line 32
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/91_125.txt
+The bug is on line 32
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/78_82.txt
+The bug is on line 24
+[22, 23, 24, 25, 69, 26, 27, 28, 29, 20.1, 70, 30, 31, 69.2, 32, 69.1, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 14.2, 7, 40, 41, 20, 42, 16.2, 16.1, 21, 43]
+which has 37 lines
+No edges: [22, 23, 24, 25, 69, 26, 27, 28, 29, 70, 30, 31, 32, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 7, 40, 41, 20, 42, 21, 43]
+which has 31 lines
+ 
+sinh_test_results/91_119.txt
+The bug is on line 32
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/144_297.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/32_28.txt
+The bug is on line 
+[, 5, 4.1, 5.2]
+which has 4 lines
+No edges: [, 5]
+which has 2 lines
+ 
+sinh_test_results/82_99.txt
+The bug is on line 27
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/120_198.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/93_140.txt
+The bug is on line 33
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/106_171.txt
+The bug is on line 42
+[22, 23, 24, 25, 69, 26, 27, 28, 29, 20.1, 70, 30, 31, 69.2, 32, 69.1, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 14.2, 7, 40, 41, 20, 42, 16.2, 16.1, 21, 43]
+which has 37 lines
+No edges: [22, 23, 24, 25, 69, 26, 27, 28, 29, 70, 30, 31, 32, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 7, 40, 41, 20, 42, 21, 43]
+which has 31 lines
+ 
+sinh_test_results/106_170.txt
+The bug is on line 42
+[22, 23, 24, 25, 69, 26, 27, 28, 29, 20.1, 70, 30, 31, 69.2, 32, 69.1, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 14.2, 7, 40, 41, 20, 42, 16.2, 16.1, 21, 43]
+which has 37 lines
+No edges: [22, 23, 24, 25, 69, 26, 27, 28, 29, 70, 30, 31, 32, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 7, 40, 41, 20, 42, 21, 43]
+which has 31 lines
+ 
+sinh_test_results/93_141.txt
+The bug is on line 33
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/120_199.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/82_98.txt
+The bug is on line 27
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/32_29.txt
+The bug is on line 
+[, 5, 4.1, 5.2]
+which has 4 lines
+No edges: [, 5]
+which has 2 lines
+ 
+sinh_test_results/144_296.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/78_83.txt
+The bug is on line 24
+[22, 23, 24, 25, 69, 26, 27, 28, 29, 20.1, 70, 30, 31, 69.2, 32, 69.1, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 14.2, 7, 40, 41, 20, 42, 16.2, 16.1, 21, 43]
+which has 37 lines
+No edges: [22, 23, 24, 25, 69, 26, 27, 28, 29, 70, 30, 31, 32, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 7, 40, 41, 20, 42, 21, 43]
+which has 31 lines
+ 
+sinh_test_results/91_118.txt
+The bug is on line 32
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/91_124.txt
+The bug is on line 32
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/91_130.txt
+The bug is on line 32
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/29_19.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/29_25.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/61_63.txt
+The bug is on line 16
+[44, 66, 45, 67, 46, 68, 47, 69, 48, 49, 20.2, 70, 50, 51, 52, 53, 69.2, 54, 69.1, 55, 56, 57, 58, 59, 16, 17, 18, 19, 14.2, 7, 60, 61, 62, 63, 16.2, 20, 64, 65, 16.1]
+which has 39 lines
+No edges: [44, 66, 45, 67, 46, 68, 47, 69, 48, 49, 70, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 16, 17, 18, 19, 7, 60, 61, 62, 63, 20, 64, 65]
+which has 33 lines
+ 
+sinh_test_results/91_126.txt
+The bug is on line 32
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/91_132.txt
+The bug is on line 32
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/78_81.txt
+The bug is on line 24
+[22, 23, 24, 25, 69, 26, 27, 28, 29, 20.1, 70, 30, 31, 69.2, 32, 69.1, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 14.2, 7, 40, 41, 20, 42, 16.2, 16.1, 21, 43]
+which has 37 lines
+No edges: [22, 23, 24, 25, 69, 26, 27, 28, 29, 70, 30, 31, 32, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 7, 40, 41, 20, 42, 21, 43]
+which has 31 lines
+ 
+sinh_test_results/93_143.txt
+The bug is on line 33
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/93_142.txt
+The bug is on line 33
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/78_80.txt
+The bug is on line 24
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/91_133.txt
+The bug is on line 32
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/91_127.txt
+The bug is on line 32
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/61_62.txt
+The bug is on line 16
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/29_26.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/61_66.txt
+The bug is on line 16
+[44, 66, 45, 67, 46, 68, 47, 48, 49, 20.2, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65]
+which has 26 lines
+No edges: [44, 66, 45, 67, 46, 68, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65]
+which has 25 lines
+
+ 
+sinh_test_results/29_22.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/121_206.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/91_123.txt
+The bug is on line 32
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/141_288.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/102_157.txt
+The bug is on line 39
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/120_203.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/128_239.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/42_46.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/42_52.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/124_223.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/124_222.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/42_47.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/128_238.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/120_202.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/102_156.txt
+The bug is on line 39
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/141_289.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/91_122.txt
+The bug is on line 32
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/121_207.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/29_23.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/61_65.txt
+The bug is on line 16
+[44, 66, 45, 67, 46, 68, 47, 48, 49, 20.2, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65]
+which has 26 lines
+No edges: [44, 66, 45, 67, 46, 68, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65]
+which has 25 lines
+ 
+sinh_test_results/29_21.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/121_205.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/91_134.txt
+The bug is on line 32
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/91_120.txt
+The bug is on line 32
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/120_200.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/78_78.txt
+The bug is on line 24
+[22, 23, 24, 25, 69, 26, 27, 28, 29, 20.1, 70, 30, 31, 69.2, 32, 69.1, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 14.2, 7, 40, 41, 20, 42, 16.2, 16.1, 21, 43]
+which has 37 lines
+No edges: [22, 23, 24, 25, 69, 26, 27, 28, 29, 70, 30, 31, 32, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 7, 40, 41, 20, 42, 21, 43]
+which has 31 lines
+ 
+sinh_test_results/42_51.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/42_45.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/124_220.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/124_221.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/42_50.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/120_201.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/78_79.txt
+The bug is on line 24
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/91_121.txt
+The bug is on line 32
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/91_135.txt
+The bug is on line 32
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/121_204.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/29_20.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/61_64.txt
+The bug is on line 16
+[44, 66, 45, 67, 46, 68, 47, 69, 48, 49, 20.2, 70, 50, 51, 52, 53, 69.2, 54, 69.1, 55, 56, 57, 58, 59, 16, 17, 18, 19, 14.2, 7, 60, 61, 62, 63, 16.2, 20, 64, 65, 16.1]
+which has 39 lines
+No edges: [44, 66, 45, 67, 46, 68, 47, 69, 48, 49, 70, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 16, 17, 18, 19, 7, 60, 61, 62, 63, 20, 64, 65]
+which has 33 lines
+ 
+sinh_test_results/127_232.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/118_186.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/23_8.txt
+The bug is on line 4
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/123_212.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/93_137.txt
+The bug is on line 33
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/77_73.txt
+The bug is on line 23
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/77_72.txt
+The bug is on line 23
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/93_136.txt
+The bug is on line 33
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/123_213.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/23_9.txt
+The bug is on line 4
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/118_187.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/127_233.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/53_59.txt
+The bug is on line 14
+[14.1]
+which has 1 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/127_231.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/72_68.txt
+The bug is on line 20
+[44, 66, 45, 67, 46, 68, 47, 69, 48, 49, 20.2, 70, 50, 51, 52, 53, 69.2, 54, 69.1, 55, 56, 57, 58, 59, 16, 17, 18, 19, 14.2, 7, 60, 61, 62, 63, 20, 64, 16.2, 16.1, 65]
+which has 39 lines
+No edges: [44, 66, 45, 67, 46, 68, 47, 69, 48, 49, 70, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 16, 17, 18, 19, 7, 60, 61, 62, 63, 20, 64, 65]
+which has 33 lines
+ 
+sinh_test_results/118_185.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/114_174.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/130_259.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/10_4.txt
+The bug is on line 2
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/138_277.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/100_154.txt
+The bug is on line 37
+[22, 23, 24, 25, 69, 26, 27, 28, 29, 20.1, 70, 30, 31, 69.2, 32, 69.1, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 14.2, 7, 40, 41, 20, 42, 16.2, 16.1, 21, 43]
+which has 37 lines
+No edges: [22, 23, 24, 25, 69, 26, 27, 28, 29, 70, 30, 31, 32, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 7, 40, 41, 20, 42, 21, 43]
+which has 31 lines
+ 
+sinh_test_results/81_94.txt
+The bug is on line 26
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/81_95.txt
+The bug is on line 26
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/100_155.txt
+The bug is on line 37
+[22, 23, 24, 25, 69, 26, 27, 28, 29, 20.1, 70, 30, 31, 69.2, 32, 69.1, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 14.2, 7, 40, 41, 20, 42, 16.2, 16.1, 21, 43]
+which has 37 lines
+No edges: [22, 23, 24, 25, 69, 26, 27, 28, 29, 70, 30, 31, 32, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 7, 40, 41, 20, 42, 21, 43]
+which has 31 lines
+ 
+sinh_test_results/138_276.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/130_258.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/114_175.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/118_184.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/72_69.txt
+The bug is on line 20
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/127_230.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/53_58.txt
+The bug is on line 14
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/53_60.txt
+The bug is on line 14
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/127_234.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/86_100.txt
+The bug is on line 29
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/126_225.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/119_191.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/130_248.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/87_105.txt
+The bug is on line 30
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/87_111.txt
+The bug is on line 30
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/10_1.txt
+The bug is on line 2
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/123_214.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/99_146.txt
+The bug is on line 36
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/28_15.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/100_151.txt
+The bug is on line 37
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/122_211.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/81_91.txt
+The bug is on line 26
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/134_268.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/77_75.txt
+The bug is on line 23
+[22, 23, 24, 25, 69, 26, 27, 28, 29, 20.1, 70, 30, 31, 69.2, 32, 69.1, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 14.2, 7, 40, 41, 20, 42, 16.2, 16.1, 21, 43]
+which has 37 lines
+No edges: [22, 23, 24, 25, 69, 26, 27, 28, 29, 70, 30, 31, 32, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 7, 40, 41, 20, 42, 21, 43]
+which has 31 lines
+ 
+sinh_test_results/38_38.txt
+The bug is on line 10
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/38_39.txt
+The bug is on line 10
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/134_269.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/77_74.txt
+The bug is on line 23
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/81_90.txt
+The bug is on line 26
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/122_210.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/100_150.txt
+The bug is on line 37
+[22, 23, 24, 25, 69, 26, 27, 28, 29, 20.1, 70, 30, 31, 69.2, 32, 69.1, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 14.2, 7, 40, 41, 20, 42, 16.2, 16.1, 21, 43]
+which has 37 lines
+No edges: [22, 23, 24, 25, 69, 26, 27, 28, 29, 70, 30, 31, 32, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 7, 40, 41, 20, 42, 21, 43]
+which has 31 lines
+ 
+sinh_test_results/99_147.txt
+The bug is on line 36
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/123_215.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/10_0.txt
+The bug is on line 2
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/87_110.txt
+The bug is on line 30
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/87_104.txt
+The bug is on line 30
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/130_249.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/119_190.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/126_224.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/86_101.txt
+The bug is on line 29
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/127_235.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/53_61.txt
+The bug is on line 14
+[14.1]
+which has 1 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/115_177.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/86_103.txt
+The bug is on line 29
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/114_172.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/126_226.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/87_106.txt
+The bug is on line 30
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/99_145.txt
+The bug is on line 36
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/10_2.txt
+The bug is on line 2
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/123_217.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/28_16.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/100_152.txt
+The bug is on line 37
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/81_92.txt
+The bug is on line 26
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/81_93.txt
+The bug is on line 26
+[22, 23, 24, 25, 69, 26, 27, 28, 29, 20.1, 70, 30, 31, 69.2, 32, 69.1, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 14.2, 7, 40, 41, 20, 42, 16.2, 16.1, 21, 43]
+which has 37 lines
+No edges: [22, 23, 24, 25, 69, 26, 27, 28, 29, 70, 30, 31, 32, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 7, 40, 41, 20, 42, 21, 43]
+which has 31 lines
+ 
+sinh_test_results/100_153.txt
+The bug is on line 37
+[22, 23, 24, 25, 69, 26, 27, 28, 29, 20.1, 70, 30, 31, 69.2, 32, 69.1, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 14.2, 7, 40, 41, 20, 42, 16.2, 16.1, 21, 43]
+which has 37 lines
+No edges: [22, 23, 24, 25, 69, 26, 27, 28, 29, 70, 30, 31, 32, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 7, 40, 41, 20, 42, 21, 43]
+which has 31 lines
+ 
+sinh_test_results/28_17.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/123_216.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/10_3.txt
+The bug is on line 2
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/99_144.txt
+The bug is on line 36
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/87_107.txt
+The bug is on line 30
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/126_227.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/114_173.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/86_102.txt
+The bug is on line 29
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/115_176.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/130_247.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/130_253.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/138_282.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/36_32.txt
+The bug is on line 9
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/134_267.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/38_37.txt
+The bug is on line 10
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/38_36.txt
+The bug is on line 10
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/134_266.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/36_33.txt
+The bug is on line 9
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/138_283.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/130_252.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/130_246.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/115_178.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/119_189.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/130_250.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/130_244.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/87_109.txt
+The bug is on line 30
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/138_281.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/123_218.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/41_44.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/100_149.txt
+The bug is on line 37
+[22, 23, 24, 25, 69, 26, 27, 28, 29, 20.1, 70, 30, 31, 69.2, 32, 69.1, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 14.2, 7, 40, 41, 20, 42, 16.2, 16.1, 21, 43]
+which has 37 lines
+No edges: [22, 23, 24, 25, 69, 26, 27, 28, 29, 70, 30, 31, 32, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 7, 40, 41, 20, 42, 21, 43]
+which has 31 lines
+ 
+sinh_test_results/122_209.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/134_264.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/81_89.txt
+The bug is on line 26
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/36_31.txt
+The bug is on line 9
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/134_270.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/134_271.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/134_265.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/81_88.txt
+The bug is on line 26
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/122_208.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/100_148.txt
+The bug is on line 37
+[22, 23, 24, 25, 69, 26, 27, 28, 29, 20.1, 70, 30, 31, 69.2, 32, 69.1, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 14.2, 7, 40, 41, 20, 42, 16.2, 16.1, 21, 43]
+which has 37 lines
+No edges: [22, 23, 24, 25, 69, 26, 27, 28, 29, 70, 30, 31, 32, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 7, 40, 41, 20, 42, 21, 43]
+which has 31 lines
+ 
+sinh_test_results/28_18.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/123_219.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/138_280.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/87_108.txt
+The bug is on line 30
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/130_245.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/130_251.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/119_188.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/115_179.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/127_229.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/115_182.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/72_70.txt
+The bug is on line 20
+[44, 66, 45, 67, 46, 68, 47, 69, 48, 49, 20.2, 70, 50, 51, 52, 53, 69.2, 54, 69.1, 55, 56, 57, 58, 59, 16, 17, 18, 19, 14.2, 7, 60, 61, 62, 63, 20, 64, 16.2, 16.1, 65]
+which has 39 lines
+No edges: [44, 66, 45, 67, 46, 68, 47, 69, 48, 49, 70, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 16, 17, 18, 19, 7, 60, 61, 62, 63, 20, 64, 65]
+which has 33 lines
+ 
+sinh_test_results/23_7.txt
+The bug is on line 4
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/130_255.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/130_241.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/41_41.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/93_138.txt
+The bug is on line 33
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/134_261.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/36_34.txt
+The bug is on line 9
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/36_35.txt
+The bug is on line 9
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/134_260.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/93_139.txt
+The bug is on line 33
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/130_240.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/130_254.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/23_6.txt
+The bug is on line 4
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/72_71.txt
+The bug is on line 20
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/115_183.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/127_228.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/115_181.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/72_67.txt
+The bug is on line 20
+[44, 66, 45, 67, 46, 68, 47, 69, 48, 49, 20.2, 70, 50, 51, 52, 53, 69.2, 54, 69.1, 55, 56, 57, 58, 59, 16, 17, 18, 19, 14.2, 7, 60, 61, 62, 63, 20, 64, 16.2, 16.1, 65]
+which has 39 lines
+No edges: [44, 66, 45, 67, 46, 68, 47, 69, 48, 49, 70, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 16, 17, 18, 19, 7, 60, 61, 62, 63, 20, 64, 65]
+which has 33 lines
+ 
+sinh_test_results/130_242.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/130_256.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/41_42.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/138_278.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/134_262.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/134_263.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/138_279.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/41_43.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/130_257.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/130_243.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/23_5.txt
+The bug is on line 4
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/115_180.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/53_57.txt
+The bug is on line 14
+[14.1]
+which has 1 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/103_161.txt
+The bug is on line 40
+[22, 23, 24, 25, 69, 26, 27, 28, 29, 20.1, 70, 30, 31, 69.2, 32, 69.1, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 14.2, 7, 40, 41, 20, 42, 16.2, 16.1, 21, 43]
+which has 37 lines
+No edges: [22, 23, 24, 25, 69, 26, 27, 28, 29, 70, 30, 31, 32, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 7, 40, 41, 20, 42, 21, 43]
+which has 31 lines
+ 
+sinh_test_results/141_293.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/102_158.txt
+The bug is on line 39
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/128_236.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/88_113.txt
+The bug is on line 31
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/42_49.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/45_54.txt
+The bug is on line 1
+[10.2, 9.1, 10]
+which has 3 lines
+No edges: [10]
+which has 1 lines
+ 
+sinh_test_results/25_11.txt
+The bug is on line 5
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/38_40.txt
+The bug is on line 10
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/25_10.txt
+The bug is on line 5
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/45_55.txt
+The bug is on line 1
+[10.2, 9.1, 10]
+which has 3 lines
+No edges: [10]
+which has 1 lines
+ 
+sinh_test_results/42_48.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/88_112.txt
+The bug is on line 31
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/128_237.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/102_159.txt
+The bug is on line 39
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/141_292.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/103_160.txt
+The bug is on line 40
+[22, 23, 24, 25, 69, 26, 27, 28, 29, 20.1, 70, 30, 31, 69.2, 32, 69.1, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 14.2, 7, 40, 41, 20, 42, 16.2, 16.1, 21, 43]
+which has 37 lines
+No edges: [22, 23, 24, 25, 69, 26, 27, 28, 29, 70, 30, 31, 32, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 7, 40, 41, 20, 42, 21, 43]
+which has 31 lines
+ 
+sinh_test_results/137_273.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/103_162.txt
+The bug is on line 40
+[22, 23, 24, 25, 69, 26, 27, 28, 29, 20.1, 70, 30, 31, 69.2, 32, 69.1, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 14.2, 7, 40, 41, 20, 42, 16.2, 16.1, 21, 43]
+which has 37 lines
+No edges: [22, 23, 24, 25, 69, 26, 27, 28, 29, 70, 30, 31, 32, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 7, 40, 41, 20, 42, 21, 43]
+which has 31 lines
+ 
+sinh_test_results/141_290.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/78_77.txt
+The bug is on line 24
+[22, 23, 24, 25, 69, 26, 27, 28, 29, 20.1, 70, 30, 31, 69.2, 32, 69.1, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 14.2, 7, 40, 41, 20, 42, 16.2, 16.1, 21, 43]
+which has 37 lines
+No edges: [22, 23, 24, 25, 69, 26, 27, 28, 29, 70, 30, 31, 32, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 7, 40, 41, 20, 42, 21, 43]
+which has 31 lines
+ 
+sinh_test_results/120_192.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/25_12.txt
+The bug is on line 5
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/25_13.txt
+The bug is on line 5
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/45_56.txt
+The bug is on line 1
+[10.2, 9.1, 10]
+which has 3 lines
+No edges: [10]
+which has 1 lines
+ 
+sinh_test_results/120_193.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/78_76.txt
+The bug is on line 24
+[22, 23, 24, 25, 69, 26, 27, 28, 29, 20.1, 70, 30, 31, 69.2, 32, 69.1, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 14.2, 7, 40, 41, 20, 42, 16.2, 16.1, 21, 43]
+which has 37 lines
+No edges: [22, 23, 24, 25, 69, 26, 27, 28, 29, 70, 30, 31, 32, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 7, 40, 41, 20, 42, 21, 43]
+which has 31 lines
+ 
+sinh_test_results/141_291.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/103_163.txt
+The bug is on line 40
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/137_272.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/140_284.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/103_167.txt
+The bug is on line 40
+[22, 23, 24, 25, 69, 26, 27, 28, 29, 20.1, 70, 30, 31, 69.2, 32, 69.1, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 14.2, 7, 40, 41, 20, 42, 16.2, 16.1, 21, 43]
+which has 37 lines
+No edges: [22, 23, 24, 25, 69, 26, 27, 28, 29, 70, 30, 31, 32, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 7, 40, 41, 20, 42, 21, 43]
+which has 31 lines
+ 
+sinh_test_results/141_295.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/91_116.txt
+The bug is on line 32
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/80_87.txt
+The bug is on line 25
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/144_298.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/32_27.txt
+The bug is on line 
+[, 5, 4.1, 5.2]
+which has 4 lines
+No edges: [, 5]
+which has 2 lines
+ 
+sinh_test_results/82_96.txt
+The bug is on line 27
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/120_197.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/88_115.txt
+The bug is on line 31
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/120_196.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/88_114.txt
+The bug is on line 31
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/45_53.txt
+The bug is on line 1
+[10.2, 9.1, 10]
+which has 3 lines
+No edges: [10]
+which has 1 lines
+ 
+sinh_test_results/82_97.txt
+The bug is on line 27
+[22, 23, 24, 25, 69, 26, 27, 28, 29, 20.1, 70, 30, 31, 69.2, 32, 69.1, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 14.2, 7, 40, 41, 20, 42, 16.2, 16.1, 21, 43]
+which has 37 lines
+No edges: [22, 23, 24, 25, 69, 26, 27, 28, 29, 70, 30, 31, 32, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 7, 40, 41, 20, 42, 21, 43]
+which has 31 lines
+ 
+sinh_test_results/144_299.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/80_86.txt
+The bug is on line 25
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/91_117.txt
+The bug is on line 32
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/141_294.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/103_166.txt
+The bug is on line 40
+[22, 23, 24, 25, 69, 26, 27, 28, 29, 20.1, 70, 30, 31, 69.2, 32, 69.1, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 14.2, 7, 40, 41, 20, 42, 16.2, 16.1, 21, 43]
+which has 37 lines
+No edges: [22, 23, 24, 25, 69, 26, 27, 28, 29, 70, 30, 31, 32, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 7, 40, 41, 20, 42, 21, 43]
+which has 31 lines
+ 
+sinh_test_results/140_285.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/140_287.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/137_275.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/103_164.txt
+The bug is on line 40
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/91_129.txt
+The bug is on line 32
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/80_84.txt
+The bug is on line 25
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/32_30.txt
+The bug is on line 
+[, 5, 4.1, 5.2]
+which has 4 lines
+No edges: [, 5]
+which has 2 lines
+ 
+sinh_test_results/120_194.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/25_14.txt
+The bug is on line 5
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/106_169.txt
+The bug is on line 42
+[22, 23, 24, 25, 69, 26, 27, 28, 29, 20.1, 70, 30, 31, 69.2, 32, 69.1, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 14.2, 7, 40, 41, 20, 42, 16.2, 16.1, 21, 43]
+which has 37 lines
+No edges: [22, 23, 24, 25, 69, 26, 27, 28, 29, 70, 30, 31, 32, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 7, 40, 41, 20, 42, 21, 43]
+which has 31 lines
+ 
+sinh_test_results/106_168.txt
+The bug is on line 42
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/120_195.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/80_85.txt
+The bug is on line 25
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/91_128.txt
+The bug is on line 32
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/103_165.txt
+The bug is on line 40
+[22, 23, 24, 25, 69, 26, 27, 28, 29, 20.1, 70, 30, 31, 69.2, 32, 69.1, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 14.2, 7, 40, 41, 20, 42, 16.2, 16.1, 21, 43]
+which has 37 lines
+No edges: [22, 23, 24, 25, 69, 26, 27, 28, 29, 70, 30, 31, 32, 33, 34, 35, 36, 37, 16, 38, 17, 39, 18, 19, 7, 40, 41, 20, 42, 21, 43]
+which has 31 lines
+ 
+sinh_test_results/137_274.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+sinh_test_results/140_286.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 

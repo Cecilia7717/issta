@@ -1,0 +1,1666 @@
+pow_test_results/119_123.txt
+The bug is on line 34
+[34, 34.1, 30.2]
+which has 3 lines
+No edges: [34]
+which has 1 lines
+ 
+pow_test_results/30_11.txt
+The bug is on line 10
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/111_119.txt
+The bug is on line 3
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/55_58.txt
+The bug is on line 16
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/156_184.txt
+The bug is on line 51
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/85_84.txt
+The bug is on line 2
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/73_60.txt
+The bug is on line 19
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/147_142.txt
+The bug is on line 45
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/92_88.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/92_89.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/147_143.txt
+The bug is on line 45
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/73_61.txt
+The bug is on line 19
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/156_185.txt
+The bug is on line 51
+[44, 45, 46, 47, 48, 49, 41.2, 50, 51, 52, 53, 54, 55, 34, 56, 57, 36, 58, 37, 59, 38, 39, 34.2, 30.2, 40, 41, 43]
+which has 27 lines
+No edges: [44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 34, 56, 57, 36, 58, 37, 59, 38, 39, 40, 41, 43]
+which has 24 lines
+ 
+pow_test_results/85_85.txt
+The bug is on line 2
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/111_118.txt
+The bug is on line 3
+[31.1, 30.1, 31]
+which has 3 lines
+No edges: [31]
+which has 1 lines
+ 
+pow_test_results/30_10.txt
+The bug is on line 10
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/119_122.txt
+The bug is on line 34
+[34, 34.1, 30.2]
+which has 3 lines
+No edges: [34]
+which has 1 lines
+ 
+pow_test_results/99_96.txt
+The bug is on line 28
+[41.1]
+which has 1 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/161_221.txt
+The bug is on line 55
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/153_161.txt
+The bug is on line 49
+[44, 45, 46, 47, 48, 49, 41.2, 50, 51, 52, 53, 54, 55, 34, 56, 57, 36, 58, 37, 59, 38, 39, 34.2, 30.2, 40, 41, 43]
+which has 27 lines
+No edges: [44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 34, 56, 57, 36, 58, 37, 59, 38, 39, 40, 41, 43]
+which has 24 lines
+ 
+pow_test_results/30_12.txt
+The bug is on line 10
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/73_63.txt
+The bug is on line 19
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/85_86.txt
+The bug is on line 2
+[24, 23.1]
+which has 2 lines
+No edges: [24]
+which has 1 lines
+ 
+pow_test_results/73_62.txt
+The bug is on line 19
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/30_13.txt
+The bug is on line 10
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/153_160.txt
+The bug is on line 49
+[44, 45, 46, 47, 48, 49, 41.2, 50, 51, 52, 53, 54, 55, 34, 56, 57, 36, 58, 37, 59, 38, 39, 34.2, 30.2, 40, 41, 43]
+which has 27 lines
+No edges: [44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 34, 56, 57, 36, 58, 37, 59, 38, 39, 40, 41, 43]
+which has 24 lines
+ 
+pow_test_results/119_121.txt
+The bug is on line 34
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/161_220.txt
+The bug is on line 55
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/99_97.txt
+The bug is on line 28
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/13_4.txt
+The bug is on line 1
+[1.1]
+which has 1 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/160_209.txt
+The bug is on line 54
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/26_9.txt
+The bug is on line 9
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/13_0.txt
+The bug is on line 1
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/161_218.txt
+The bug is on line 55
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/119_125.txt
+The bug is on line 34
+[34, 34.1, 30.2]
+which has 3 lines
+No edges: [34]
+which has 1 lines
+ 
+pow_test_results/80_71.txt
+The bug is on line 22
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/153_158.txt
+The bug is on line 49
+[44, 45, 46, 47, 48, 49, 41.2, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 34, 36, 37, 38, 39, 34.2, 30.2, 40, 41, 43]
+which has 27 lines
+No edges: [44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 34, 56, 57, 36, 58, 37, 59, 38, 39, 40, 41, 43]
+which has 24 lines
+ 
+pow_test_results/30_17.txt
+The bug is on line 10
+[10.1]
+which has 1 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/156_182.txt
+The bug is on line 51
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/85_82.txt
+The bug is on line 2
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/147_144.txt
+The bug is on line 45
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/157_187.txt
+The bug is on line 52
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/157_193.txt
+The bug is on line 52
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/157_192.txt
+The bug is on line 52
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/157_186.txt
+The bug is on line 52
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/147_145.txt
+The bug is on line 45
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/156_183.txt
+The bug is on line 51
+[44, 45, 46, 47, 48, 49, 41.2, 50, 51, 52, 53, 54, 55, 34, 56, 57, 36, 58, 37, 59, 38, 39, 34.2, 30.2, 40, 41, 43]
+which has 27 lines
+No edges: [44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 34, 56, 57, 36, 58, 37, 59, 38, 39, 40, 41, 43]
+which has 24 lines
+ 
+pow_test_results/85_83.txt
+The bug is on line 2
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/30_16.txt
+The bug is on line 10
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/153_159.txt
+The bug is on line 49
+[44, 45, 46, 47, 48, 49, 41.2, 50, 51, 52, 53, 54, 55, 34, 56, 57, 36, 58, 37, 59, 38, 39, 34.2, 30.2, 40, 41, 43]
+which has 27 lines
+No edges: [44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 34, 56, 57, 36, 58, 37, 59, 38, 39, 40, 41, 43]
+which has 24 lines
+ 
+pow_test_results/80_70.txt
+The bug is on line 22
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/119_124.txt
+The bug is on line 34
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/161_219.txt
+The bug is on line 55
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/13_1.txt
+The bug is on line 1
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/26_8.txt
+The bug is on line 9
+[26, 21.2]
+which has 2 lines
+No edges: [26]
+which has 1 lines
+ 
+pow_test_results/160_208.txt
+The bug is on line 54
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/13_3.txt
+The bug is on line 1
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/80_72.txt
+The bug is on line 22
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/30_28.txt
+The bug is on line 10
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/30_14.txt
+The bug is on line 10
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/111_120.txt
+The bug is on line 3
+[31.1, 31, 30.1]
+which has 3 lines
+No edges: [31]
+which has 1 lines
+ 
+pow_test_results/55_49.txt
+The bug is on line 16
+[12, 16, 12.2, 10.2, 9.1, 16.2, 10, 16.1]
+which has 8 lines
+No edges: [12, 16, 10]
+which has 3 lines
+ 
+pow_test_results/73_59.txt
+The bug is on line 19
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/157_190.txt
+The bug is on line 52
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/157_191.txt
+The bug is on line 52
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/30_15.txt
+The bug is on line 10
+[10.1]
+which has 1 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/30_29.txt
+The bug is on line 10
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/13_2.txt
+The bug is on line 1
+[1.1]
+which has 1 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/154_169.txt
+The bug is on line 50
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/163_230.txt
+The bug is on line 57
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/106_106.txt
+The bug is on line 30
+[31.2, 30.1, 31]
+which has 3 lines
+No edges: [31]
+which has 1 lines
+ 
+pow_test_results/77_67.txt
+The bug is on line 21
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/77_66.txt
+The bug is on line 21
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/106_107.txt
+The bug is on line 30
+[31.2]
+which has 1 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/163_231.txt
+The bug is on line 57
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/154_168.txt
+The bug is on line 50
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/154_181.txt
+The bug is on line 50
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/93_94.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/162_222.txt
+The bug is on line 56
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/163_233.txt
+The bug is on line 57
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/36_38.txt
+The bug is on line 12
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/77_64.txt
+The bug is on line 21
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/36_39.txt
+The bug is on line 12
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/106_110.txt
+The bug is on line 30
+[31.2, 30.1, 31]
+which has 3 lines
+No edges: [31]
+which has 1 lines
+ 
+pow_test_results/77_65.txt
+The bug is on line 21
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/163_232.txt
+The bug is on line 57
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/162_223.txt
+The bug is on line 56
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/93_95.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/154_180.txt
+The bug is on line 50
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/129_129.txt
+The bug is on line 36
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/93_91.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/39_44.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/148_149.txt
+The bug is on line 46
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/162_227.txt
+The bug is on line 56
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/163_236.txt
+The bug is on line 57
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/163_237.txt
+The bug is on line 57
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/162_226.txt
+The bug is on line 56
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/148_148.txt
+The bug is on line 46
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/39_45.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/129_128.txt
+The bug is on line 36
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/154_178.txt
+The bug is on line 50
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/93_92.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/39_47.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/131_138.txt
+The bug is on line 38
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/162_224.txt
+The bug is on line 56
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/163_235.txt
+The bug is on line 57
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/163_234.txt
+The bug is on line 57
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/162_225.txt
+The bug is on line 56
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/131_139.txt
+The bug is on line 38
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/39_46.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/93_93.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/154_179.txt
+The bug is on line 50
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/159_194.txt
+The bug is on line 53
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/84_79.txt
+The bug is on line 24
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/103_102.txt
+The bug is on line 2
+[28.1]
+which has 1 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/154_174.txt
+The bug is on line 50
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/149_157.txt
+The bug is on line 47
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/129_126.txt
+The bug is on line 36
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/148_152.txt
+The bug is on line 46
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/148_146.txt
+The bug is on line 46
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/162_228.txt
+The bug is on line 56
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/81_75.txt
+The bug is on line 23
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/130_131.txt
+The bug is on line 37
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/36_33.txt
+The bug is on line 12
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/130_130.txt
+The bug is on line 37
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/81_74.txt
+The bug is on line 23
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/162_229.txt
+The bug is on line 56
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/148_147.txt
+The bug is on line 46
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/148_153.txt
+The bug is on line 46
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/129_127.txt
+The bug is on line 36
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/154_175.txt
+The bug is on line 50
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/149_156.txt
+The bug is on line 47
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/103_103.txt
+The bug is on line 2
+[28.1]
+which has 1 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/84_78.txt
+The bug is on line 24
+[24, 23.1]
+which has 2 lines
+No edges: [24]
+which has 1 lines
+ 
+pow_test_results/159_195.txt
+The bug is on line 53
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/159_197.txt
+The bug is on line 53
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/149_154.txt
+The bug is on line 47
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/154_177.txt
+The bug is on line 50
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/103_101.txt
+The bug is on line 2
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/154_163.txt
+The bug is on line 50
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/39_48.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/148_151.txt
+The bug is on line 46
+[44, 45, 46, 47, 48, 49, 41.2, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 34, 36, 37, 38, 39, 34.2, 30.2, 40, 41, 43]
+which has 27 lines
+No edges: [44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 34, 56, 57, 36, 58, 37, 59, 38, 39, 40, 41, 43]
+which has 24 lines
+ 
+pow_test_results/81_76.txt
+The bug is on line 23
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/130_132.txt
+The bug is on line 37
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/130_133.txt
+The bug is on line 37
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/81_77.txt
+The bug is on line 23
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/148_150.txt
+The bug is on line 46
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/154_162.txt
+The bug is on line 50
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/149_155.txt
+The bug is on line 47
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/154_176.txt
+The bug is on line 50
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/159_196.txt
+The bug is on line 53
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/154_172.txt
+The bug is on line 50
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/103_104.txt
+The bug is on line 2
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/154_166.txt
+The bug is on line 50
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/84_80.txt
+The bug is on line 24
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/81_73.txt
+The bug is on line 23
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/106_109.txt
+The bug is on line 30
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/36_34.txt
+The bug is on line 12
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/130_137.txt
+The bug is on line 37
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/77_68.txt
+The bug is on line 21
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/36_35.txt
+The bug is on line 12
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/130_136.txt
+The bug is on line 37
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/106_108.txt
+The bug is on line 30
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/84_81.txt
+The bug is on line 24
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/154_167.txt
+The bug is on line 50
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/103_105.txt
+The bug is on line 2
+[28.1]
+which has 1 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/154_173.txt
+The bug is on line 50
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/154_165.txt
+The bug is on line 50
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/154_171.txt
+The bug is on line 50
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/130_134.txt
+The bug is on line 37
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/36_37.txt
+The bug is on line 12
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/130_135.txt
+The bug is on line 37
+[44, 45, 46, 47, 48, 49, 41.2, 50, 51, 52, 53, 54, 55, 34, 56, 57, 36, 58, 37, 59, 38, 39, 34.2, 30.2, 40, 41, 43]
+which has 27 lines
+No edges: [44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 34, 56, 57, 36, 58, 37, 59, 38, 39, 40, 41, 43]
+which has 24 lines
+ 
+pow_test_results/36_36.txt
+The bug is on line 12
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/154_170.txt
+The bug is on line 50
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/154_164.txt
+The bug is on line 50
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/160_206.txt
+The bug is on line 54
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/108_113.txt
+The bug is on line 31
+[31.2, 30.1, 31]
+which has 3 lines
+No edges: [31]
+which has 1 lines
+ 
+pow_test_results/26_6.txt
+The bug is on line 9
+[26, 19, 2, 21.2, 19.1, 9.2, 20, 21]
+which has 8 lines
+No edges: [26, 19, 2, 20, 21]
+which has 5 lines
+ 
+pow_test_results/161_217.txt
+The bug is on line 55
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/30_30.txt
+The bug is on line 10
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/30_24.txt
+The bug is on line 10
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/30_18.txt
+The bug is on line 10
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/55_51.txt
+The bug is on line 16
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/157_188.txt
+The bug is on line 52
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/157_189.txt
+The bug is on line 52
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/55_50.txt
+The bug is on line 16
+[12, 16, 12.2, 10.2, 9.1, 16.2, 10, 16.1]
+which has 8 lines
+No edges: [12, 16, 10]
+which has 3 lines
+ 
+pow_test_results/30_19.txt
+The bug is on line 10
+[10.1]
+which has 1 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/30_25.txt
+The bug is on line 10
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/30_31.txt
+The bug is on line 10
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/161_216.txt
+The bug is on line 55
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/26_7.txt
+The bug is on line 9
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/108_112.txt
+The bug is on line 31
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/160_207.txt
+The bug is on line 54
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/160_205.txt
+The bug is on line 54
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/26_5.txt
+The bug is on line 9
+[26, 19, 2, 21.2, 19.1, 9.2, 20, 21]
+which has 8 lines
+No edges: [26, 19, 2, 20, 21]
+which has 5 lines
+ 
+pow_test_results/161_214.txt
+The bug is on line 55
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/80_69.txt
+The bug is on line 22
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/30_27.txt
+The bug is on line 10
+[10.1, 9.1, 10]
+which has 3 lines
+No edges: [10]
+which has 1 lines
+ 
+pow_test_results/55_52.txt
+The bug is on line 16
+[12, 16, 12.2, 10.2, 9.1, 16.2, 10, 16.1]
+which has 8 lines
+No edges: [12, 16, 10]
+which has 3 lines
+ 
+pow_test_results/131_140.txt
+The bug is on line 38
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/160_198.txt
+The bug is on line 54
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/160_199.txt
+The bug is on line 54
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/131_141.txt
+The bug is on line 38
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/55_53.txt
+The bug is on line 16
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/99_100.txt
+The bug is on line 28
+[41.1, 28.2, 30, 34, 36, 37, 38, 39, 34.2, 30.2, 40, 41]
+which has 12 lines
+No edges: [34, 36, 37, 38, 39, 40, 30, 41]
+which has 8 lines
+ 
+pow_test_results/30_32.txt
+The bug is on line 10
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/30_26.txt
+The bug is on line 10
+[10.1, 9.1, 10]
+which has 3 lines
+No edges: [10]
+which has 1 lines
+ 
+pow_test_results/161_215.txt
+The bug is on line 55
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/108_111.txt
+The bug is on line 31
+[31.2, 30.1, 31]
+which has 3 lines
+No edges: [31]
+which has 1 lines
+ 
+pow_test_results/160_204.txt
+The bug is on line 54
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/108_115.txt
+The bug is on line 31
+[31.2, 30.1, 31]
+which has 3 lines
+No edges: [31]
+which has 1 lines
+ 
+pow_test_results/160_200.txt
+The bug is on line 54
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/161_211.txt
+The bug is on line 55
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/30_22.txt
+The bug is on line 10
+[10.1, 9.1, 10]
+which has 3 lines
+No edges: [10]
+which has 1 lines
+ 
+pow_test_results/55_57.txt
+The bug is on line 16
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/111_116.txt
+The bug is on line 3
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/36_43.txt
+The bug is on line 12
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/92_87.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/36_42.txt
+The bug is on line 12
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/55_56.txt
+The bug is on line 16
+[12, 16, 12.2, 10.2, 9.1, 16.2, 10, 16.1]
+which has 8 lines
+No edges: [12, 16, 10]
+which has 3 lines
+ 
+pow_test_results/111_117.txt
+The bug is on line 3
+[31.1, 30.1, 31]
+which has 3 lines
+No edges: [31]
+which has 1 lines
+ 
+pow_test_results/30_23.txt
+The bug is on line 10
+[10.1, 9.1, 10]
+which has 3 lines
+No edges: [10]
+which has 1 lines
+ 
+pow_test_results/161_210.txt
+The bug is on line 55
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/160_201.txt
+The bug is on line 54
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/108_114.txt
+The bug is on line 31
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/160_203.txt
+The bug is on line 54
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/99_99.txt
+The bug is on line 28
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/161_212.txt
+The bug is on line 55
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/30_21.txt
+The bug is on line 10
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/55_54.txt
+The bug is on line 16
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/36_40.txt
+The bug is on line 12
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/92_90.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/36_41.txt
+The bug is on line 12
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/55_55.txt
+The bug is on line 16
+[12, 16, 12.2, 10.2, 9.1, 16.2, 10, 16.1]
+which has 8 lines
+No edges: [12, 16, 10]
+which has 3 lines
+ 
+pow_test_results/30_20.txt
+The bug is on line 10
+[10.1]
+which has 1 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/161_213.txt
+The bug is on line 55
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+pow_test_results/99_98.txt
+The bug is on line 28
+[28, 41.1, 28.2, 30, 28.1, 34, 36, 37, 38, 39, 34.2, 30.2, 40, 41]
+which has 14 lines
+No edges: [34, 36, 37, 38, 28, 39, 40, 30, 41]
+which has 9 lines
+ 
+pow_test_results/160_202.txt
+The bug is on line 54
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 

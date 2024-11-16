@@ -1,0 +1,35 @@
+gcd_test_results/62_22.txt
+10
+
+gcd_test_results/49_5.txt
+5
+
+gcd_test_results/40_2.txt
+2
+
+gcd_test_results/40_3.txt [not contains]
+2
+
+gcd_test_results/40_4.txt [not contains]
+2
+
+gcd_test_results/49_8.txt [not contains]
+5
+
+gcd_test_results/49_9.txt [not contains]
+5
+
+gcd_test_results/60_16.txt
+9
+
+There are total 20 valid test
+4 have returned empty set
+12 have returned set that contains the bugline
+4 have returned set that not contains the bugline
+
+for the set that contains the bugline, 
+the average number of lines needed to read is 10
+the total number is 123
+
+for the set that not contains the bugline,
+the total number is 4

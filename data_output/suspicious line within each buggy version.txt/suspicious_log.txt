@@ -1,0 +1,3136 @@
+log_test_results/90_120.txt
+The bug is on line 27
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/90_108.txt
+The bug is on line 27
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/173_333.txt
+The bug is on line 71
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/103_168.txt
+The bug is on line 36
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/173_327.txt
+The bug is on line 71
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/68_44.txt
+The bug is on line 13
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/68_50.txt
+The bug is on line 13
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/179_350.txt
+The bug is on line 74
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/172_322.txt
+The bug is on line 70
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/31_1.txt
+The bug is on line 4
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/198_406.txt
+The bug is on line 81
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/188_374.txt
+The bug is on line 76
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/195_380.txt
+The bug is on line 78
+[47.2, 77, 78, 79, 106.2, 80, 81, 82, 83]
+which has 9 lines
+No edges: [77, 78, 79, 80, 81, 82, 83]
+which has 7 lines
+ 
+log_test_results/199_417.txt
+The bug is on line 82
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/230_437.txt
+The bug is on line 95
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/230_436.txt
+The bug is on line 95
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/199_416.txt
+The bug is on line 82
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/195_381.txt
+The bug is on line 78
+[47.2, 77, 78, 79, 106.2, 80, 81, 82, 83]
+which has 9 lines
+No edges: [77, 78, 79, 80, 81, 82, 83]
+which has 7 lines
+ 
+log_test_results/188_375.txt
+The bug is on line 76
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/198_407.txt
+The bug is on line 81
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/31_0.txt
+The bug is on line 4
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/172_323.txt
+The bug is on line 70
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/179_351.txt
+The bug is on line 74
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/68_51.txt
+The bug is on line 13
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/68_45.txt
+The bug is on line 13
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/173_326.txt
+The bug is on line 71
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/173_332.txt
+The bug is on line 71
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/90_109.txt
+The bug is on line 27
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/178_342.txt
+The bug is on line 73
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/173_330.txt
+The bug is on line 71
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/68_53.txt
+The bug is on line 13
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/68_47.txt
+The bug is on line 13
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/150_263.txt
+The bug is on line 56
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/179_353.txt
+The bug is on line 74
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/179_347.txt
+The bug is on line 74
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/198_405.txt
+The bug is on line 81
+[47.2, 77, 78, 79, 106.2, 80, 81, 82, 83]
+which has 9 lines
+No edges: [77, 78, 79, 80, 81, 82, 83]
+which has 7 lines
+ 
+log_test_results/188_377.txt
+The bug is on line 76
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/31_2.txt
+The bug is on line 4
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/48_22.txt
+The bug is on line 8
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 10, 54, 99, 55, 12, 56, 13, 57, 58, 59, 61.1, 106.2, 106.1, 8, 9, 60, 61, 62, 9.1, 63, 9.2, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 4.2, 80, 107, 81, 108, 82, 83, 8.1, 8.2, 84, 85, 86, 43, 87]
+which has 82 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 10, 54, 99, 55, 12, 56, 13, 57, 58, 59, 8, 9, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 71 lines
+ 
+log_test_results/195_383.txt
+The bug is on line 78
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/149_260.txt
+The bug is on line 55
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/199_414.txt
+The bug is on line 82
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/230_434.txt
+The bug is on line 95
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/230_435.txt
+The bug is on line 95
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/199_415.txt
+The bug is on line 82
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/149_261.txt
+The bug is on line 55
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/195_382.txt
+The bug is on line 78
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/48_23.txt
+The bug is on line 8
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/31_3.txt
+The bug is on line 4
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 10, 54, 99, 55, 12, 56, 13, 57, 58, 59, 61.1, 106.2, 3, 106.1, 4, 1.2, 5, 6, 8, 5.1, 5.2, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 4.1, 4.2, 80, 107, 81, 108, 82, 83, 8.2, 84, 85, 86, 43, 87]
+which has 86 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 10, 54, 99, 55, 12, 56, 13, 57, 58, 59, 3, 4, 5, 6, 8, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 74 lines
+ 
+log_test_results/188_376.txt
+The bug is on line 76
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/198_404.txt
+The bug is on line 81
+[47.2, 77, 78, 79, 106.2, 80, 81, 82, 83]
+which has 9 lines
+No edges: [77, 78, 79, 80, 81, 82, 83]
+which has 7 lines
+ 
+log_test_results/102_153.txt
+The bug is on line 35
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/179_346.txt
+The bug is on line 74
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/179_352.txt
+The bug is on line 74
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/150_262.txt
+The bug is on line 56
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/68_46.txt
+The bug is on line 13
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/244_470.txt
+The bug is on line 106
+[44, 88, 45, 89, 46, 47, 90, 91, 92, 93, 94, 95, 96, 97, 47.2, 98, 77, 99, 78, 79, 13.2, 100, 101, 102, 106.1, 103, 104, 105, 106, 80, 81, 82, 83, 84, 85, 86, 43, 87]
+which has 38 lines
+No edges: [44, 88, 45, 89, 46, 47, 90, 91, 92, 93, 94, 95, 96, 97, 98, 77, 99, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 81, 82, 83, 84, 85, 86, 43, 87]
+which has 35 lines
+ 
+log_test_results/68_52.txt
+The bug is on line 13
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/173_331.txt
+The bug is on line 71
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/178_343.txt
+The bug is on line 73
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/68_42.txt
+The bug is on line 13
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/225_428.txt
+The bug is on line 91
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/179_356.txt
+The bug is on line 74
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/102_157.txt
+The bug is on line 35
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/229_432.txt
+The bug is on line 94
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/172_324.txt
+The bug is on line 70
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/195_379.txt
+The bug is on line 78
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/188_372.txt
+The bug is on line 76
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/31_7.txt
+The bug is on line 4
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/107_172.txt
+The bug is on line 37
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/149_259.txt
+The bug is on line 55
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/199_411.txt
+The bug is on line 82
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/163_296.txt
+The bug is on line 64
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/148_248.txt
+The bug is on line 54
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/112_209.txt
+The bug is on line 41
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/112_208.txt
+The bug is on line 41
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/148_249.txt
+The bug is on line 54
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/163_297.txt
+The bug is on line 64
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/199_410.txt
+The bug is on line 82
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/149_258.txt
+The bug is on line 55
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/31_6.txt
+The bug is on line 4
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/188_373.txt
+The bug is on line 76
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/195_378.txt
+The bug is on line 78
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/48_26.txt
+The bug is on line 8
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 10, 54, 99, 55, 12, 56, 13, 57, 58, 59, 61.1, 106.2, 106.1, 8, 9, 60, 61, 62, 9.1, 63, 9.2, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 4.2, 80, 107, 81, 108, 82, 83, 8.1, 8.2, 84, 85, 86, 43, 87]
+which has 82 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 10, 54, 99, 55, 12, 56, 13, 57, 58, 59, 8, 9, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 71 lines
+ 
+log_test_results/229_433.txt
+The bug is on line 94
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/89_97.txt
+The bug is on line 26
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/172_325.txt
+The bug is on line 70
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/102_156.txt
+The bug is on line 35
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/179_357.txt
+The bug is on line 74
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/78_85.txt
+The bug is on line 18
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/225_429.txt
+The bug is on line 91
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/68_43.txt
+The bug is on line 13
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/90_119.txt
+The bug is on line 27
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/178_344.txt
+The bug is on line 73
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/68_41.txt
+The bug is on line 13
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/150_265.txt
+The bug is on line 56
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/68_55.txt
+The bug is on line 13
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/78_87.txt
+The bug is on line 18
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/179_355.txt
+The bug is on line 74
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/102_154.txt
+The bug is on line 35
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/229_431.txt
+The bug is on line 94
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/48_24.txt
+The bug is on line 8
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/94_139.txt
+The bug is on line 30
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/31_4.txt
+The bug is on line 4
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 10, 54, 99, 55, 12, 56, 13, 57, 58, 59, 61.1, 106.2, 3, 106.1, 4, 1.2, 5, 6, 8, 5.1, 5.2, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 4.1, 4.2, 80, 107, 81, 108, 82, 83, 8.2, 84, 85, 86, 43, 87]
+which has 86 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 10, 54, 99, 55, 12, 56, 13, 57, 58, 59, 3, 4, 5, 6, 8, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 74 lines
+ 
+log_test_results/198_403.txt
+The bug is on line 81
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/188_371.txt
+The bug is on line 76
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/107_171.txt
+The bug is on line 37
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/195_385.txt
+The bug is on line 78
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/163_295.txt
+The bug is on line 64
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/199_412.txt
+The bug is on line 82
+[47.2, 77, 78, 79, 106.2, 80, 81, 82, 83]
+which has 9 lines
+No edges: [77, 78, 79, 80, 81, 82, 83]
+which has 7 lines
+ 
+log_test_results/199_413.txt
+The bug is on line 82
+[47.2, 77, 78, 79, 106.2, 80, 81, 82, 83]
+which has 9 lines
+No edges: [77, 78, 79, 80, 81, 82, 83]
+which has 7 lines
+ 
+log_test_results/163_294.txt
+The bug is on line 64
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/195_384.txt
+The bug is on line 78
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/107_170.txt
+The bug is on line 37
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/188_370.txt
+The bug is on line 76
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/198_402.txt
+The bug is on line 81
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/31_5.txt
+The bug is on line 4
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/94_138.txt
+The bug is on line 30
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/48_25.txt
+The bug is on line 8
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/229_430.txt
+The bug is on line 94
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/102_155.txt
+The bug is on line 35
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/179_354.txt
+The bug is on line 74
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/78_86.txt
+The bug is on line 18
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/68_54.txt
+The bug is on line 13
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/150_264.txt
+The bug is on line 56
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/68_40.txt
+The bug is on line 13
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/178_345.txt
+The bug is on line 73
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/90_118.txt
+The bug is on line 27
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/108_179.txt
+The bug is on line 38
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/108_186.txt
+The bug is on line 38
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/68_33.txt
+The bug is on line 13
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/108_192.txt
+The bug is on line 38
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/164_304.txt
+The bug is on line 65
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/174_338.txt
+The bug is on line 72
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/161_282.txt
+The bug is on line 63
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/239_457.txt
+The bug is on line 102
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/101_152.txt
+The bug is on line 34
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/132_217.txt
+The bug is on line 44
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/170_318.txt
+The bug is on line 69
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/114_215.txt
+The bug is on line 4
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/230_440.txt
+The bug is on line 95
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/110_194.txt
+The bug is on line 39
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/110_195.txt
+The bug is on line 39
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/230_441.txt
+The bug is on line 95
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/114_214.txt
+The bug is on line 4
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/170_319.txt
+The bug is on line 69
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/98_144.txt
+The bug is on line 32
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/161_283.txt
+The bug is on line 63
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/239_456.txt
+The bug is on line 102
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/174_339.txt
+The bug is on line 72
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/164_305.txt
+The bug is on line 65
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/68_32.txt
+The bug is on line 13
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/108_187.txt
+The bug is on line 38
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/108_178.txt
+The bug is on line 38
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/108_191.txt
+The bug is on line 38
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/108_185.txt
+The bug is on line 38
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/157_268.txt
+The bug is on line 60
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/239_454.txt
+The bug is on line 102
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/161_281.txt
+The bug is on line 63
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/141_239.txt
+The bug is on line 49
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/101_151.txt
+The bug is on line 34
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/164_298.txt
+The bug is on line 65
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/114_216.txt
+The bug is on line 4
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/110_196.txt
+The bug is on line 39
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/164_299.txt
+The bug is on line 65
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/92_124.txt
+The bug is on line 28
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/101_150.txt
+The bug is on line 34
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/141_238.txt
+The bug is on line 49
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/239_455.txt
+The bug is on line 102
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/161_280.txt
+The bug is on line 63
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/157_269.txt
+The bug is on line 60
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/108_184.txt
+The bug is on line 38
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/108_190.txt
+The bug is on line 38
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/165_307.txt
+The bug is on line 66
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/197_394.txt
+The bug is on line 80
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/165_313.txt
+The bug is on line 66
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/68_35.txt
+The bug is on line 13
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/108_180.txt
+The bug is on line 38
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/75_70.txt
+The bug is on line 15
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/164_302.txt
+The bug is on line 65
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/196_391.txt
+The bug is on line 79
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/161_284.txt
+The bug is on line 63
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/161_290.txt
+The bug is on line 63
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/99_146.txt
+The bug is on line 33
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/111_197.txt
+The bug is on line 40
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/114_213.txt
+The bug is on line 4
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/98_143.txt
+The bug is on line 32
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/93_125.txt
+The bug is on line 29
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/93_131.txt
+The bug is on line 29
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/93_130.txt
+The bug is on line 29
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/110_193.txt
+The bug is on line 39
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/98_142.txt
+The bug is on line 32
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/92_121.txt
+The bug is on line 28
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/99_147.txt
+The bug is on line 33
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/161_291.txt
+The bug is on line 63
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/161_285.txt
+The bug is on line 63
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/164_303.txt
+The bug is on line 65
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/196_390.txt
+The bug is on line 79
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/75_71.txt
+The bug is on line 15
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/108_181.txt
+The bug is on line 38
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/68_34.txt
+The bug is on line 13
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/75_65.txt
+The bug is on line 15
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/165_312.txt
+The bug is on line 66
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/165_306.txt
+The bug is on line 66
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/197_395.txt
+The bug is on line 80
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/165_310.txt
+The bug is on line 66
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/197_397.txt
+The bug is on line 80
+[47.2, 77, 78, 79, 106.2, 80, 81, 82, 83]
+which has 9 lines
+No edges: [77, 78, 79, 80, 81, 82, 83]
+which has 7 lines
+ 
+log_test_results/187_368.txt
+The bug is on line 75
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/108_183.txt
+The bug is on line 38
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/75_67.txt
+The bug is on line 15
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/235_448.txt
+The bug is on line 99
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/68_36.txt
+The bug is on line 13
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/161_278.txt
+The bug is on line 63
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/196_392.txt
+The bug is on line 79
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/164_301.txt
+The bug is on line 65
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/196_386.txt
+The bug is on line 79
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/161_293.txt
+The bug is on line 63
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/161_287.txt
+The bug is on line 63
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/99_145.txt
+The bug is on line 33
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/92_123.txt
+The bug is on line 28
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/170_321.txt
+The bug is on line 69
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/93_132.txt
+The bug is on line 29
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/93_126.txt
+The bug is on line 29
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/93_127.txt
+The bug is on line 29
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/77_77.txt
+The bug is on line 17
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/98_141.txt
+The bug is on line 32
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/170_320.txt
+The bug is on line 69
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/92_122.txt
+The bug is on line 28
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/161_286.txt
+The bug is on line 63
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/161_292.txt
+The bug is on line 63
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/196_387.txt
+The bug is on line 79
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/196_393.txt
+The bug is on line 79
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/164_300.txt
+The bug is on line 65
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/161_279.txt
+The bug is on line 63
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/235_449.txt
+The bug is on line 99
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/75_66.txt
+The bug is on line 15
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/68_37.txt
+The bug is on line 13
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/187_369.txt
+The bug is on line 75
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/75_72.txt
+The bug is on line 15
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/108_182.txt
+The bug is on line 38
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/197_396.txt
+The bug is on line 80
+[47.2, 77, 78, 79, 106.2, 80, 81, 82, 83]
+which has 9 lines
+No edges: [77, 78, 79, 80, 81, 82, 83]
+which has 7 lines
+ 
+log_test_results/165_311.txt
+The bug is on line 66
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/160_271.txt
+The bug is on line 62
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/165_308.txt
+The bug is on line 66
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/235_450.txt
+The bug is on line 99
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/161_274.txt
+The bug is on line 63
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/111_198.txt
+The bug is on line 40
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/132_222.txt
+The bug is on line 44
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/31_13.txt
+The bug is on line 4
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/31_12.txt
+The bug is on line 4
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/86_96.txt
+The bug is on line 24
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/77_84.txt
+The bug is on line 17
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/132_223.txt
+The bug is on line 44
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/111_199.txt
+The bug is on line 40
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/99_148.txt
+The bug is on line 33
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/253_471.txt
+The bug is on line 10
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/161_275.txt
+The bug is on line 63
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/235_451.txt
+The bug is on line 99
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/111_204.txt
+The bug is on line 40
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/165_309.txt
+The bug is on line 66
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/160_270.txt
+The bug is on line 62
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/160_272.txt
+The bug is on line 62
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/108_173.txt
+The bug is on line 38
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/197_398.txt
+The bug is on line 80
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/235_453.txt
+The bug is on line 99
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/187_367.txt
+The bug is on line 75
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/68_39.txt
+The bug is on line 13
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/197_401.txt
+The bug is on line 80
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/235_447.txt
+The bug is on line 99
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/75_68.txt
+The bug is on line 15
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/161_277.txt
+The bug is on line 63
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/196_389.txt
+The bug is on line 79
+[47.2, 77, 78, 79, 106.2, 80, 81, 82, 83]
+which has 9 lines
+No edges: [77, 78, 79, 80, 81, 82, 83]
+which has 7 lines
+ 
+log_test_results/253_473.txt
+The bug is on line 10
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/234_442.txt
+The bug is on line 98
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/161_288.txt
+The bug is on line 63
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/142_244.txt
+The bug is on line 50
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/132_221.txt
+The bug is on line 44
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/77_79.txt
+The bug is on line 17
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/31_10.txt
+The bug is on line 4
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/93_129.txt
+The bug is on line 29
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/93_128.txt
+The bug is on line 29
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/31_11.txt
+The bug is on line 4
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/86_95.txt
+The bug is on line 24
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/77_78.txt
+The bug is on line 17
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/132_220.txt
+The bug is on line 44
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/142_245.txt
+The bug is on line 50
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/94_140.txt
+The bug is on line 30
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/161_289.txt
+The bug is on line 63
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/234_443.txt
+The bug is on line 98
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/196_388.txt
+The bug is on line 79
+[47.2, 77, 78, 79, 106.2, 80, 81, 82, 83]
+which has 9 lines
+No edges: [77, 78, 79, 80, 81, 82, 83]
+which has 7 lines
+ 
+log_test_results/253_472.txt
+The bug is on line 10
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/161_276.txt
+The bug is on line 63
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/197_400.txt
+The bug is on line 80
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/68_38.txt
+The bug is on line 13
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/75_69.txt
+The bug is on line 15
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/235_446.txt
+The bug is on line 99
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/235_452.txt
+The bug is on line 99
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/187_366.txt
+The bug is on line 75
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/197_399.txt
+The bug is on line 80
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/160_273.txt
+The bug is on line 62
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/137_229.txt
+The bug is on line 47
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/108_176.txt
+The bug is on line 38
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/111_203.txt
+The bug is on line 40
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/140_230.txt
+The bug is on line 48
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/108_189.txt
+The bug is on line 38
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/174_337.txt
+The bug is on line 72
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/169_314.txt
+The bug is on line 68
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/141_235.txt
+The bug is on line 49
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/101_149.txt
+The bug is on line 34
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/77_83.txt
+The bug is on line 17
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/132_218.txt
+The bug is on line 44
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/132_224.txt
+The bug is on line 44
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/31_15.txt
+The bug is on line 4
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/31_14.txt
+The bug is on line 4
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/132_219.txt
+The bug is on line 44
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/77_82.txt
+The bug is on line 17
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/141_234.txt
+The bug is on line 49
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/174_336.txt
+The bug is on line 72
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/169_315.txt
+The bug is on line 68
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/108_188.txt
+The bug is on line 38
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/140_231.txt
+The bug is on line 48
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/111_202.txt
+The bug is on line 40
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/108_177.txt
+The bug is on line 38
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/111_200.txt
+The bug is on line 40
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/108_175.txt
+The bug is on line 38
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/140_233.txt
+The bug is on line 48
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/157_267.txt
+The bug is on line 60
+[66, 48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 60, 61, 62, 63, 64, 65]
+which has 21 lines
+No edges: [66, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65]
+which has 19 lines
+ 
+log_test_results/169_317.txt
+The bug is on line 68
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/174_334.txt
+The bug is on line 72
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/141_236.txt
+The bug is on line 49
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/234_444.txt
+The bug is on line 98
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/142_242.txt
+The bug is on line 50
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/77_80.txt
+The bug is on line 17
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/31_16.txt
+The bug is on line 4
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/77_81.txt
+The bug is on line 17
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/142_243.txt
+The bug is on line 50
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/234_445.txt
+The bug is on line 98
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/141_237.txt
+The bug is on line 49
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/169_316.txt
+The bug is on line 68
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/174_335.txt
+The bug is on line 72
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/157_266.txt
+The bug is on line 60
+[66, 48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 60, 61, 62, 63, 64, 65]
+which has 21 lines
+No edges: [66, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65]
+which has 19 lines
+ 
+log_test_results/253_474.txt
+The bug is on line 10
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/140_232.txt
+The bug is on line 48
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/108_174.txt
+The bug is on line 38
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/111_201.txt
+The bug is on line 40
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/90_101.txt
+The bug is on line 27
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/90_115.txt
+The bug is on line 27
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/225_427.txt
+The bug is on line 91
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/103_161.txt
+The bug is on line 36
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/179_365.txt
+The bug is on line 74
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/179_359.txt
+The bug is on line 74
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/102_158.txt
+The bug is on line 35
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/89_99.txt
+The bug is on line 26
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/94_135.txt
+The bug is on line 30
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/31_8.txt
+The bug is on line 4
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/107_169.txt
+The bug is on line 37
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/149_256.txt
+The bug is on line 55
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/112_212.txt
+The bug is on line 41
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/148_247.txt
+The bug is on line 54
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/112_206.txt
+The bug is on line 41
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/112_207.txt
+The bug is on line 41
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/148_246.txt
+The bug is on line 54
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/149_257.txt
+The bug is on line 55
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/74_61.txt
+The bug is on line 14
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/31_9.txt
+The bug is on line 4
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/94_134.txt
+The bug is on line 30
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/89_98.txt
+The bug is on line 26
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/102_159.txt
+The bug is on line 35
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/179_358.txt
+The bug is on line 74
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/179_364.txt
+The bug is on line 74
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/225_426.txt
+The bug is on line 91
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/90_114.txt
+The bug is on line 27
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/90_116.txt
+The bug is on line 27
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/90_102.txt
+The bug is on line 27
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/225_424.txt
+The bug is on line 91
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/103_162.txt
+The bug is on line 36
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/78_88.txt
+The bug is on line 18
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/224_421.txt
+The bug is on line 90
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/94_136.txt
+The bug is on line 30
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/240_458.txt
+The bug is on line 103
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/74_63.txt
+The bug is on line 14
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/240_464.txt
+The bug is on line 103
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/149_255.txt
+The bug is on line 55
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/112_205.txt
+The bug is on line 41
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/112_211.txt
+The bug is on line 41
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/112_210.txt
+The bug is on line 41
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/149_254.txt
+The bug is on line 55
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/240_465.txt
+The bug is on line 103
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/74_62.txt
+The bug is on line 14
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/82_92.txt
+The bug is on line 21
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/240_459.txt
+The bug is on line 103
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/94_137.txt
+The bug is on line 30
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/89_100.txt
+The bug is on line 26
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/224_420.txt
+The bug is on line 90
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/76_73.txt
+The bug is on line 16
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/103_163.txt
+The bug is on line 36
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/225_425.txt
+The bug is on line 91
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/90_103.txt
+The bug is on line 27
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/90_117.txt
+The bug is on line 27
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/90_113.txt
+The bug is on line 27
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/90_107.txt
+The bug is on line 27
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/173_328.txt
+The bug is on line 71
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/103_167.txt
+The bug is on line 36
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/174_340.txt
+The bug is on line 72
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/179_363.txt
+The bug is on line 74
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/224_418.txt
+The bug is on line 90
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/198_409.txt
+The bug is on line 81
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/94_133.txt
+The bug is on line 30
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/240_461.txt
+The bug is on line 103
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/149_250.txt
+The bug is on line 55
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/230_438.txt
+The bug is on line 95
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/230_439.txt
+The bug is on line 95
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/149_251.txt
+The bug is on line 55
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/240_460.txt
+The bug is on line 103
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/198_408.txt
+The bug is on line 81
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/76_76.txt
+The bug is on line 16
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/224_419.txt
+The bug is on line 90
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/179_362.txt
+The bug is on line 74
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/174_341.txt
+The bug is on line 72
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/173_329.txt
+The bug is on line 71
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/103_166.txt
+The bug is on line 36
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/90_106.txt
+The bug is on line 27
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/90_112.txt
+The bug is on line 27
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/90_104.txt
+The bug is on line 27
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/90_110.txt
+The bug is on line 27
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/103_164.txt
+The bug is on line 36
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/68_60.txt
+The bug is on line 13
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/225_422.txt
+The bug is on line 91
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/68_48.txt
+The bug is on line 13
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/179_348.txt
+The bug is on line 74
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/179_360.txt
+The bug is on line 74
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/141_241.txt
+The bug is on line 49
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/76_74.txt
+The bug is on line 16
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/149_253.txt
+The bug is on line 55
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/240_462.txt
+The bug is on line 103
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/74_64.txt
+The bug is on line 14
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/240_463.txt
+The bug is on line 103
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/149_252.txt
+The bug is on line 55
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/76_75.txt
+The bug is on line 16
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/102_160.txt
+The bug is on line 35
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/141_240.txt
+The bug is on line 49
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/179_361.txt
+The bug is on line 74
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/179_349.txt
+The bug is on line 74
+[48, 49, 50, 51, 52, 47.1, 53, 54, 55, 56, 57, 58, 59, 61.1, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 34 lines
+No edges: [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 107, 108]
+which has 31 lines
+ 
+log_test_results/68_49.txt
+The bug is on line 13
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/225_423.txt
+The bug is on line 91
+[44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 47.1, 53, 47.2, 98, 54, 99, 55, 56, 57, 58, 59, 61.1, 106.2, 106.1, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 13.2, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 72 lines
+No edges: [44, 88, 45, 89, 46, 47, 48, 49, 90, 91, 92, 93, 94, 50, 95, 51, 96, 52, 97, 53, 98, 54, 99, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 100, 101, 102, 103, 104, 105, 106, 80, 107, 81, 108, 82, 83, 84, 85, 86, 43, 87]
+which has 66 lines
+ 
+log_test_results/103_165.txt
+The bug is on line 36
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+log_test_results/90_111.txt
+The bug is on line 27
+[22, 23, 24, 25, 26, 27, 28, 29, 25.1, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 13.1, 40, 41, 20, 21]
+which has 30 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 14, 36, 15, 37, 16, 38, 17, 39, 18, 19, 40, 41, 20, 21]
+which has 28 lines
+ 
+log_test_results/90_105.txt
+The bug is on line 27
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 

@@ -1,0 +1,1134 @@
+cosh_test_results/69_102.txt
+The bug is on line 24
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/61_74.txt
+The bug is on line 18
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/59_70.txt
+The bug is on line 17
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/9_2.txt
+The bug is on line 1
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/9_3.txt
+The bug is on line 1
+[1, 1.1]
+which has 2 lines
+No edges: [1]
+which has 1 lines
+ 
+cosh_test_results/59_71.txt
+The bug is on line 17
+[22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 14.2, 3.2, 8, 8.2, 20, 21]
+which has 26 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 8, 20, 21]
+which has 23 lines
+ 
+cosh_test_results/61_75.txt
+The bug is on line 18
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/69_103.txt
+The bug is on line 24
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/61_77.txt
+The bug is on line 18
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/59_73.txt
+The bug is on line 17
+[22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 14.2, 3.2, 8, 8.2, 20, 21]
+which has 26 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 8, 20, 21]
+which has 23 lines
+ 
+cosh_test_results/59_67.txt
+The bug is on line 17
+[22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 14.2, 3.2, 8, 8.2, 20, 21]
+which has 26 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 8, 20, 21]
+which has 23 lines
+ 
+cosh_test_results/78_138.txt
+The bug is on line 28
+[22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 14.2, 3.2, 8, 8.2, 20, 21]
+which has 26 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 8, 20, 21]
+which has 23 lines
+ 
+cosh_test_results/9_1.txt
+The bug is on line 1
+[1, 1.1]
+which has 2 lines
+No edges: [1]
+which has 1 lines
+ 
+cosh_test_results/9_0.txt
+The bug is on line 1
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/78_139.txt
+The bug is on line 28
+[22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 14.2, 3.2, 8, 8.2, 20, 21]
+which has 26 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 8, 20, 21]
+which has 23 lines
+ 
+cosh_test_results/59_66.txt
+The bug is on line 17
+[22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 14.2, 3.2, 8, 8.2, 20, 21]
+which has 26 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 8, 20, 21]
+which has 23 lines
+ 
+cosh_test_results/59_72.txt
+The bug is on line 17
+[22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 14.2, 3.2, 8, 8.2, 20, 21]
+which has 26 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 8, 20, 21]
+which has 23 lines
+ 
+cosh_test_results/61_76.txt
+The bug is on line 18
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/68_95.txt
+The bug is on line 23
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/69_104.txt
+The bug is on line 24
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/74_127.txt
+The bug is on line 26
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/74_133.txt
+The bug is on line 26
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/68_101.txt
+The bug is on line 23
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/9_4.txt
+The bug is on line 1
+[1, 1.1]
+which has 2 lines
+No edges: [1]
+which has 1 lines
+ 
+cosh_test_results/63_88.txt
+The bug is on line 20
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/22_17.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/22_16.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/63_89.txt
+The bug is on line 20
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/17_5.txt
+The bug is on line 3
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/68_100.txt
+The bug is on line 23
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/74_132.txt
+The bug is on line 26
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/69_105.txt
+The bug is on line 24
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/74_126.txt
+The bug is on line 26
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/68_94.txt
+The bug is on line 23
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/68_96.txt
+The bug is on line 23
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/74_130.txt
+The bug is on line 26
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/17_7.txt
+The bug is on line 3
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/32_39.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/36_49.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/22_15.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/36_48.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/32_38.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/17_6.txt
+The bug is on line 3
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/74_131.txt
+The bug is on line 26
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/68_97.txt
+The bug is on line 23
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/72_107.txt
+The bug is on line 25
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/72_113.txt
+The bug is on line 25
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/62_85.txt
+The bug is on line 19
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/81_152.txt
+The bug is on line 31
+[22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 14.2, 3.2, 8, 8.2, 20, 21]
+which has 26 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 8, 20, 21]
+which has 23 lines
+ 
+cosh_test_results/39_56.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/23_26.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/35_42.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/77_136.txt
+The bug is on line 27
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/77_137.txt
+The bug is on line 27
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/35_43.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/48_57.txt
+The bug is on line 14
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/81_153.txt
+The bug is on line 31
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/62_84.txt
+The bug is on line 19
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/72_112.txt
+The bug is on line 25
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/72_106.txt
+The bug is on line 25
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/72_110.txt
+The bug is on line 25
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/81_151.txt
+The bug is on line 31
+[22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 14.2, 3.2, 8, 8.2, 20, 21]
+which has 26 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 8, 20, 21]
+which has 23 lines
+ 
+cosh_test_results/23_19.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/39_55.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/62_79.txt
+The bug is on line 19
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/23_25.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/84_160.txt
+The bug is on line 33
+[22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 14.2, 3.2, 8, 8.2, 20, 21]
+which has 26 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 8, 20, 21]
+which has 23 lines
+ 
+cosh_test_results/26_29.txt
+The bug is on line 
+[, 4, 3.1, 4.2]
+which has 4 lines
+No edges: [, 4]
+which has 2 lines
+ 
+cosh_test_results/35_41.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/77_135.txt
+The bug is on line 27
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/77_134.txt
+The bug is on line 27
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/26_28.txt
+The bug is on line 
+[, 4, 3.1, 4.2]
+which has 4 lines
+No edges: [, 4]
+which has 2 lines
+ 
+cosh_test_results/84_161.txt
+The bug is on line 33
+[22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 14.2, 3.2, 8, 8.2, 20, 21]
+which has 26 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 8, 20, 21]
+which has 23 lines
+ 
+cosh_test_results/62_78.txt
+The bug is on line 19
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/23_24.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/39_54.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/81_150.txt
+The bug is on line 31
+[22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 14.2, 3.2, 8, 8.2, 20, 21]
+which has 26 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 8, 20, 21]
+which has 23 lines
+ 
+cosh_test_results/72_111.txt
+The bug is on line 25
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/72_115.txt
+The bug is on line 25
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/62_83.txt
+The bug is on line 19
+[22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 14.2, 3.2, 8, 8.2, 20, 21]
+which has 26 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 8, 20, 21]
+which has 23 lines
+ 
+cosh_test_results/81_154.txt
+The bug is on line 31
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/23_20.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/84_159.txt
+The bug is on line 33
+[22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 14.2, 3.2, 8, 8.2, 20, 21]
+which has 26 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 8, 20, 21]
+which has 23 lines
+ 
+cosh_test_results/35_44.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/84_158.txt
+The bug is on line 33
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/23_21.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/81_155.txt
+The bug is on line 31
+[22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 14.2, 3.2, 8, 8.2, 20, 21]
+which has 26 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 8, 20, 21]
+which has 23 lines
+ 
+cosh_test_results/62_82.txt
+The bug is on line 19
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/72_114.txt
+The bug is on line 25
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/80_146.txt
+The bug is on line 30
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/72_116.txt
+The bug is on line 25
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/62_80.txt
+The bug is on line 19
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/81_157.txt
+The bug is on line 31
+[22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 14.2, 3.2, 8, 8.2, 20, 21]
+which has 26 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 8, 20, 21]
+which has 23 lines
+ 
+cosh_test_results/23_23.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/39_53.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/23_22.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/81_156.txt
+The bug is on line 31
+[22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 14.2, 3.2, 8, 8.2, 20, 21]
+which has 26 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 8, 20, 21]
+which has 23 lines
+ 
+cosh_test_results/62_81.txt
+The bug is on line 19
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/72_117.txt
+The bug is on line 25
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/80_147.txt
+The bug is on line 30
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/78_145.txt
+The bug is on line 28
+[22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 14.2, 3.2, 8, 8.2, 20, 21]
+which has 26 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 8, 20, 21]
+which has 23 lines
+ 
+cosh_test_results/19_12.txt
+The bug is on line 4
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/19_13.txt
+The bug is on line 4
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/78_144.txt
+The bug is on line 28
+[22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 14.2, 3.2, 8, 8.2, 20, 21]
+which has 26 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 8, 20, 21]
+which has 23 lines
+ 
+cosh_test_results/80_149.txt
+The bug is on line 30
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/72_125.txt
+The bug is on line 25
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/72_119.txt
+The bug is on line 25
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/48_60.txt
+The bug is on line 14
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/19_11.txt
+The bug is on line 4
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/58_65.txt
+The bug is on line 16
+[22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 14.2, 3.2, 8, 8.2, 20, 21]
+which has 26 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 8, 20, 21]
+which has 23 lines
+ 
+cosh_test_results/58_64.txt
+The bug is on line 16
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/19_10.txt
+The bug is on line 4
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/32_40.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/48_61.txt
+The bug is on line 14
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/72_118.txt
+The bug is on line 25
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/72_124.txt
+The bug is on line 25
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/80_148.txt
+The bug is on line 30
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/72_108.txt
+The bug is on line 25
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/72_120.txt
+The bug is on line 25
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/78_143.txt
+The bug is on line 28
+[22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 14.2, 3.2, 8, 8.2, 20, 21]
+which has 26 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 8, 20, 21]
+which has 23 lines
+ 
+cosh_test_results/67_92.txt
+The bug is on line 22
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/48_59.txt
+The bug is on line 14
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/19_14.txt
+The bug is on line 4
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/26_30.txt
+The bug is on line 
+[, 4, 3.1, 4.2]
+which has 4 lines
+No edges: [, 4]
+which has 2 lines
+ 
+cosh_test_results/48_58.txt
+The bug is on line 14
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/67_93.txt
+The bug is on line 22
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/78_142.txt
+The bug is on line 28
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/72_121.txt
+The bug is on line 25
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/72_109.txt
+The bug is on line 25
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/72_123.txt
+The bug is on line 25
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/78_140.txt
+The bug is on line 28
+[22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 14.2, 3.2, 8, 8.2, 20, 21]
+which has 26 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 8, 20, 21]
+which has 23 lines
+ 
+cosh_test_results/67_91.txt
+The bug is on line 22
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/58_63.txt
+The bug is on line 16
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/58_62.txt
+The bug is on line 16
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/26_27.txt
+The bug is on line 
+[, 4, 3.1, 4.2]
+which has 4 lines
+No edges: [, 4]
+which has 2 lines
+ 
+cosh_test_results/67_90.txt
+The bug is on line 22
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/78_141.txt
+The bug is on line 28
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/72_122.txt
+The bug is on line 25
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/74_128.txt
+The bug is on line 26
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/63_87.txt
+The bug is on line 20
+[22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 14.2, 3.2, 8, 8.2, 20, 21]
+which has 26 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 8, 20, 21]
+which has 23 lines
+ 
+cosh_test_results/36_51.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/36_45.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/22_18.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/36_50.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/63_86.txt
+The bug is on line 20
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/30_31.txt
+The bug is on line 8
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/74_129.txt
+The bug is on line 26
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/68_99.txt
+The bug is on line 23
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/30_33.txt
+The bug is on line 8
+[3.2, 8, 9, 8.1, 9.2]
+which has 5 lines
+No edges: [8, 9]
+which has 2 lines
+ 
+cosh_test_results/17_8.txt
+The bug is on line 3
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/32_36.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/36_46.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/36_52.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/36_47.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/32_37.txt
+The bug is on line null
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/17_9.txt
+The bug is on line 3
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/30_32.txt
+The bug is on line 8
+[3.2, 8, 9, 8.1, 9.2]
+which has 5 lines
+No edges: [8, 9]
+which has 2 lines
+ 
+cosh_test_results/68_98.txt
+The bug is on line 23
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/59_68.txt
+The bug is on line 17
+[22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 14.2, 3.2, 8, 8.2, 20, 21]
+which has 26 lines
+No edges: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 13, 14, 15, 16, 17, 18, 19, 8, 20, 21]
+which has 23 lines
+ 
+cosh_test_results/30_35.txt
+The bug is on line 8
+[3.2, 8, 9, 8.1, 9.2]
+which has 5 lines
+No edges: [8, 9]
+which has 2 lines
+ 
+cosh_test_results/30_34.txt
+The bug is on line 8
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+cosh_test_results/59_69.txt
+The bug is on line 17
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 

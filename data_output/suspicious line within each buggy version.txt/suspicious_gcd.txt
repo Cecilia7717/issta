@@ -1,0 +1,140 @@
+gcd_test_results/49_7.txt
+The bug is on line 5
+[1, 2, 3, 4, 2.1, 5, 6, 2.2, 7, 5.1, 8, 9, 5.2]
+which has 13 lines
+No edges: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+which has 9 lines
+ 
+gcd_test_results/49_6.txt
+The bug is on line 5
+[1, 2, 3, 4, 2.1, 5, 6, 2.2, 7, 5.1, 8, 9, 5.2]
+which has 13 lines
+No edges: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+which has 9 lines
+ 
+gcd_test_results/62_22.txt
+The bug is on line 10
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+gcd_test_results/60_18.txt
+The bug is on line 9
+[1, 2, 3, 4, 5, 2.1, 2.2, 6, 7, 5.1, 8, 9, 5.2]
+which has 13 lines
+No edges: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+which has 9 lines
+ 
+gcd_test_results/49_5.txt
+The bug is on line 5
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+gcd_test_results/40_2.txt
+The bug is on line 2
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+gcd_test_results/40_3.txt
+The bug is on line 2
+[7, 5.2]
+which has 2 lines
+No edges: [7]
+which has 1 lines
+ 
+gcd_test_results/40_1.txt
+The bug is on line 2
+[1, 2, 3, 4, 2.1, 5, 6, 2.2, 7, 5.1, 8, 9, 5.2]
+which has 13 lines
+No edges: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+which has 9 lines
+ 
+gcd_test_results/40_0.txt
+The bug is on line 2
+[1, 2, 3, 4, 2.1, 5, 6, 2.2, 7, 5.1, 8, 9, 5.2]
+which has 13 lines
+No edges: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+which has 9 lines
+ 
+gcd_test_results/40_4.txt
+The bug is on line 2
+[6, 5.1]
+which has 2 lines
+No edges: [6]
+which has 1 lines
+ 
+gcd_test_results/49_8.txt
+The bug is on line 5
+[4, 2.2]
+which has 2 lines
+No edges: [4]
+which has 1 lines
+ 
+gcd_test_results/60_15.txt
+The bug is on line 9
+[1, 2, 3, 4, 2.1, 5, 2.2, 6, 7, 8, 5.1, 5.2, 9]
+which has 13 lines
+No edges: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+which has 9 lines
+ 
+gcd_test_results/60_14.txt
+The bug is on line 9
+[1, 2, 3, 4, 2.1, 5, 2.2, 6, 7, 8, 5.1, 5.2, 9]
+which has 13 lines
+No edges: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+which has 9 lines
+ 
+gcd_test_results/49_9.txt
+The bug is on line 5
+[3, 2.1]
+which has 2 lines
+No edges: [3]
+which has 1 lines
+ 
+gcd_test_results/60_16.txt
+The bug is on line 9
+[]
+which has 0 lines
+No edges: []
+which has 0 lines
+ 
+gcd_test_results/60_17.txt
+The bug is on line 9
+[11, 12, 1, 2, 3, 4, 2.1, 5, 2.2, 6, 7, 8, 5.1, 5.2, 9, 9.1, 10]
+which has 17 lines
+No edges: [11, 1, 12, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+which has 12 lines
+ 
+gcd_test_results/60_13.txt
+The bug is on line 9
+[11, 12, 1, 2, 3, 4, 5, 2.1, 2.2, 6, 7, 5.1, 8, 9, 5.2, 9.1, 10]
+which has 17 lines
+No edges: [11, 1, 12, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+which has 12 lines
+ 
+gcd_test_results/60_12.txt
+The bug is on line 9
+[11, 12, 1, 2, 3, 4, 2.1, 5, 2.2, 6, 7, 8, 5.1, 5.2, 9, 9.1, 10]
+which has 17 lines
+No edges: [11, 1, 12, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+which has 12 lines
+ 
+gcd_test_results/60_10.txt
+The bug is on line 9
+[11, 12, 1, 2, 3, 4, 2.1, 5, 2.2, 6, 7, 8, 5.1, 5.2, 9, 9.1, 10]
+which has 17 lines
+No edges: [11, 1, 12, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+which has 12 lines
+ 
+gcd_test_results/60_11.txt
+The bug is on line 9
+[11, 12, 1, 2, 3, 4, 2.1, 5, 2.2, 6, 7, 8, 5.1, 5.2, 9, 9.1, 10]
+which has 17 lines
+No edges: [11, 1, 12, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+which has 12 lines
+ 
