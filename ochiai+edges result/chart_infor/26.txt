@@ -1,0 +1,4 @@
+org.jfree.chart.axis.Axis#1192
+org.jfree.chart.axis.Axis#1193
+org.jfree.chart.axis.Axis#1194
+org.jfree.chart.axis.Axis#1195

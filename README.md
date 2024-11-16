@@ -1,4 +1,4 @@
-# Use of Control Flow Graphs for Fault Localization
+# Use of Control Flow Graphs with Edges Consideration for Fault Localization
 
 # Tarantula+Edges code
 ## functional code: 
@@ -29,13 +29,47 @@ This collects all the java file that compute the right result for each method, i
 This folder contains all the output data for testing the Tarantula+Edges appraoch in five methods from the Apache Commons Mathematics Library: hyperbolic sine (sinh) and cosine (cosh); power (pow); logarithm (log); prime; and an
 iterative implementation of Euclid’s greatest common divisor (gcd) algorithm, which were implemented in Java. 
 
-## line number needs to examine
+## sequential path result
+This contains the execuation information for each codeline in different mutations for testing different approach.
 
 ## ranking
+This includes the ranking information after we knowing the result of each test cases (Pass or Fail) and the executation information in each line, we then can compute the suspiciousness of each codeline using both Tarantula appraoch and the Tarantula+Edges approach. 
 
-## sequential path result
+We can find the ranking results, where each codeline has been ranked according to the suspiciousness score computed. Where `<method>_test_totalResults.txt` includes the result without edge consideration; those `<method>_test_totalResultsWithIfElseConsider.txt` includes the result with edge consideration.
+
+## line number needs to examine
+With the information from the *ranking* part, we can count the number of the codeline that we need to investigate until reaching the faulty line.
 
 ## suspicious line within each buggy version
-This foloder includes the result of using 
+This foloder includes the result of using the Set-union approach. For each text file inside of this folder. This includes the set results that contains potentially faulty lines. We compute the result with edge consideration and without edge consideration, and the number of lines contained in the set.
+
 ## summary.xlsx
-# 
+This inlcudes a result summary from above results.
+
+# ochiai-Edges implementation
+We comapred the effectiveness of ochiai+Edges approach with the orginal ochiai appraoch in 83 buggy versions (71 valid buggy version) total in three different
+libraries from Defects4J: Commons Math, JFreeChart, and Joda-Time. In order to have the line execution information so that we can compute those Spectrum-Based Fault Localization, we use GZoltar to compute this information for each line. 
+
+## initialization
+First, here are the installations we need to do:
+- JDK8 https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
+- Fault-localization-data https://bitbucket.org/rjust/fault-localization-data/downloads/
+- Defects4j-2.0.0 https://github.com/rjust/defects4j/releases/tag/v2.0.0
+- Defects4j-repos https://defects4j.org/downloads/defects4j-repos.zip
+- DBI-1.643 https://cpan.metacpan.org/authors/id/T/TI/TIMB/DBI-1.643.tar.gz
+Now, to set the enviroment, we could apply env.txt. Or we could:
+```
+tar -zxvf jdk-8u281-linux-x64.tar.gz
+# adjust jdk enviroment
+sudo vim /etc/profile
+export JAVA_HOME=/home/ubuntu/jdk1.8.0_281
+export PATH=$PATH:$JAVA_HOME/bin
+export CLASSPATH=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar
+source /etc/profile
+
+# install package
+sudo apt-get install subversion
+sudo apt-get install cpanminus
+sudo apt-get install maven
+```
+

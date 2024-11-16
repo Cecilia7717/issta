@@ -1,0 +1,2 @@
+org.jfree.data.time.TimePeriodValues#299
+org.jfree.data.time.TimePeriodValues#231

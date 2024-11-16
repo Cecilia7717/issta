@@ -1,0 +1,2 @@
+org.jfree.chart.renderer.category.StatisticalBarRenderer#315
+org.jfree.chart.renderer.category.StatisticalBarRenderer#459
