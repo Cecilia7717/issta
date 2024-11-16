@@ -73,3 +73,30 @@ sudo apt-get install cpanminus
 sudo apt-get install maven
 ```
 
+```
+unzip rjust-fault-localization-data-626c8b83e082.zip &amp;&amp; mv rjust-fault-localization-data-626c8b83e082 fault-localization
+# [/tmp/issue-30/fault-localization/]
+tar -zxvf defects4j-2.0.0.tar.gz &amp;&amp; mv defects4j-2.0.0 defects4j
+# [/tmp/issue-30/fault-localization/defects4j]
+cpanm --installdeps .
+./init.sh
+# [/tmp/issue-30/fault-localization/defects4j/project_repos]
+unzip -q -u defects4j-repos.zip &amp;&amp; mv defects4j/project_repos/* . &amp;&amp; rm -r defects4j
+export PATH=$PATH:/tmp/issue-30/fault-localization/defects4j/framework/bin
+```
+Now, we can test the command
+```
+defects4j info -p Lang
+# [/tmp/issue-30/fault-localization/gzoltar]
+git clone https://github.com/GZoltar/gzoltar.git
+mv gzoltar gzoltar-repo &amp;&amp; cd gzoltar-repo/
+mvn clean package -DskipTests=true
+```
+We also need a tiny change before we actually run the command:
+```
+# change line 324 in untils.sh 
+local relevant_tests_file="$D4J_HOME/framework/projects/$pid/relevant_tests/$bid"
+# change line 570 in job.sh
+cp -Rv gzoltars/* "$SCRIPT_DIR/"
+./job.sh --project Math --bug 1 --output_dir Math/1 --tool developer
+```
